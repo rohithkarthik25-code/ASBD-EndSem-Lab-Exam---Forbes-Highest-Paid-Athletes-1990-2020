@@ -1,0 +1,61 @@
+================================================================================
+WORKSPACE ENVIRONMENT & DEPENDENCY AUDIT REPORT
+Generated: Pre-Exam Readiness Check
+Workspace: C:\Users\ACER\OneDrive\Desktop\Big Data\experiments
+================================================================================
+
+1. RUNTIME & SYSTEM:
+--------------------
+- Operating System: Windows 11 (AMD64)
+- Python Executable: C:\Users\ACER\AppData\Local\Programs\Python\Python311\python.exe
+- Python Version: 3.11.9 (tags/v3.11.9:de5405b, Apr  2 2024, 10:12:12)
+- Java Runtime: OpenJDK 64-Bit Server VM (Microsoft, build 17.0.21.1+1-LTS)
+- JAVA_HOME: C:\Program Files\Microsoft\jdk-17.0.21.102-hotspot
+- HADOOP_HOME: C:\hadoop
+- winutils.exe: Present at C:\hadoop\bin\winutils.exe (122,368 bytes)
+- hadoop.dll: Present at C:\hadoop\bin\hadoop.dll (80,384 bytes)
+
+2. CORE DATA SCIENCE & ML PACKAGES:
+-----------------------------------
+[PASS] pandas:       3.1.1
+[PASS] numpy:        2.4.6
+[PASS] scipy:        1.17.0
+[PASS] scikit-learn: 1.9.1
+[PASS] xgboost:      3.2.0
+[PASS] mlxtend:      0.25.0
+[PASS] matplotlib:   3.11.2
+[PASS] seaborn:      0.13.2
+[PASS] kagglehub:    1.0.3
+
+3. PYSPARK & DISTRIBUTED ML:
+----------------------------
+[PASS] PySpark:      4.3.0
+- SparkSession init: Operational (local[*])
+- Spark Worker Python: Explicitly bound to Python 3.11.9 executable
+- Spark MLlib: Tested (LogisticRegression, Pipelines, Assembler, Evaluator)
+- Spark Smoke Test: PASSED (count, transformations, model fitting & metric calculation)
+
+4. CUSTOM TOOLKIT INTEGRITY:
+----------------------------
+[PASS] exam_toolkit.py: Present, validated (104 KB)
+- All 21 core functions available and verified:
+    run_all_classifiers, get_classifiers,
+    run_all_regressors, get_regressors,
+    kmeans_analysis, hierarchical_analysis, dbscan_analysis, cluster_benchmark,
+    mine_rules, df_to_transactions,
+    load_kaggle_data,
+    spark_init, spark_load_csv, spark_inspect, spark_handle_missing,
+    spark_build_pipeline_stages, spark_run_classifiers, spark_run_regressors,
+    spark_kmeans, spark_tune_model, spark_to_pandas.
+- Import Test: PASSED (`import exam_toolkit as et` completes cleanly in 0.0s)
+- Target Leakage Check: Enforced in pipeline builders (target strictly excluded)
+- Scikit-Learn / PySpark Namespace Isolation: Verified (no symbol collisions)
+
+5. REFERENCE ASSETS:
+--------------------
+[PASS] LAB_EXAM_SUMMARY.md: Present (105 KB, Weeks 1-12 complete theory & viva)
+[PASS] colab_setup.md: Present (3.1 KB, emergency cloud fallback instructions)
+
+================================================================================
+STATUS: WORKSPACE IS 100% OPERATIONAL AND READY FOR LIVE PROBLEM STATEMENT.
+================================================================================

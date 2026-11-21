@@ -1,0 +1,302 @@
+S.NO,Name,Year,Decade,Current Rank,Rank_Tier,Previous_Year_Rank_Clean,Rank_Trajectory,earnings ($ million),Earnings_Category,Sport_Clean,Nationality_Clean,Nationality_Group,Nationality,Sport,Previous Year Rank
+1,Mike Tyson,1990,1990s,1,Podium (1-3),Unranked,New Entry,28.6,High ($25M-$60M),Boxing,USA,USA,USA,boxing,
+2,Buster Douglas,1990,1990s,2,Podium (1-3),Unranked,New Entry,26.0,High ($25M-$60M),Boxing,USA,USA,USA,boxing,
+3,Sugar Ray Leonard,1990,1990s,3,Podium (1-3),Unranked,New Entry,13.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,boxing,
+4,Ayrton Senna,1990,1990s,4,Mid-Tier (4-7),Unranked,New Entry,10.0,Moderate ($8M-$25M),Auto Racing,Brazil,International,Brazil,auto racing,
+5,Alain Prost,1990,1990s,5,Mid-Tier (4-7),Unranked,New Entry,9.0,Moderate ($8M-$25M),Auto Racing,France,International,France,auto racing,
+6,Jack Nicklaus,1990,1990s,6,Mid-Tier (4-7),Unranked,New Entry,8.6,Moderate ($8M-$25M),Golf,USA,USA,USA,golf,
+7,Greg Norman,1990,1990s,7,Mid-Tier (4-7),Unranked,New Entry,8.5,Moderate ($8M-$25M),Golf,Australia,International,Australia,golf,
+8,Michael Jordan,1990,1990s,8,Lower Top-10 (8-10),Unranked,New Entry,8.1,Moderate ($8M-$25M),Basketball,USA,USA,USA,basketball,
+9,Arnold Palmer,1990,1990s,8,Lower Top-10 (8-10),Unranked,New Entry,8.1,Moderate ($8M-$25M),Golf,USA,USA,USA,golf,
+10,Evander Holyfield,1990,1990s,8,Lower Top-10 (8-10),Unranked,New Entry,8.1,Moderate ($8M-$25M),Boxing,USA,USA,USA,boxing,
+11,Evander Holyfield,1991,1990s,1,Podium (1-3),8,Improved,60.5,Ultra-High (>$60M),Boxing,USA,USA,USA,boxing,8
+12,Mike Tyson,1991,1990s,2,Podium (1-3),1,Dropped,31.5,High ($25M-$60M),Boxing,USA,USA,USA,boxing,1
+13,Michael Jordan,1991,1990s,3,Podium (1-3),8,Improved,16.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,basketball,8
+14,George Foreman,1991,1990s,4,Mid-Tier (4-7),>30,Promoted to Top 10,14.5,Moderate ($8M-$25M),Boxing,USA,USA,USA,boxing,>30
+15,Ayrton Senna,1991,1990s,5,Mid-Tier (4-7),4,Dropped,13.0,Moderate ($8M-$25M),Auto Racing,Brazil,International,Brazil,auto racing,4
+16,Alain Prost,1991,1990s,6,Mid-Tier (4-7),5,Dropped,11.0,Moderate ($8M-$25M),Auto Racing,France,International,France,auto racing,5
+17,"Donovan ""Razor"" Ruddock",1991,1990s,7,Mid-Tier (4-7),>30,Promoted to Top 10,10.2,Moderate ($8M-$25M),Boxing,Canada,International,Canada,boxing,>30
+18,Arnold Palmer,1991,1990s,8,Lower Top-10 (8-10),8,Maintained,9.3,Moderate ($8M-$25M),Golf,USA,USA,USA,golf,8
+19,Nigel Mansell,1991,1990s,9,Lower Top-10 (8-10),12,Improved,9.0,Moderate ($8M-$25M),Auto Racing,UK,International,UK,auto racing,12
+20,Sugar Ray Leonard,1991,1990s,10,Lower Top-10 (8-10),6,Dropped,8.5,Moderate ($8M-$25M),Golf,USA,USA,USA,golf,6
+21,Michael Jordan,1992,1990s,1,Podium (1-3),3,Improved,35.9,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,3
+22,Evander Holyfield,1992,1990s,2,Podium (1-3),1,Dropped,28.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,1
+23,Ayrton Senna,1992,1990s,3,Podium (1-3),5,Improved,22.0,Moderate ($8M-$25M),Auto Racing,Brazil,International,Brazil,Auto Racing,5
+24,Nigel Mansell,1992,1990s,4,Mid-Tier (4-7),9,Improved,14.5,Moderate ($8M-$25M),Auto Racing,UK,International,UK,Auto Racing,9
+25,Arnold Palmer,1992,1990s,5,Mid-Tier (4-7),8,Improved,11.1,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,8
+26,Andre Agassi,1992,1990s,6,Mid-Tier (4-7),17,Improved,11.0,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,17
+27,Joe Montana,1992,1990s,7,Mid-Tier (4-7),13,Improved,9.5,Moderate ($8M-$25M),American Football,USA,USA,USA,NFL,13
+28,Sugar Ray Leonard,1992,1990s,8,Lower Top-10 (8-10),10,Improved,9.2,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,10
+29,Jim Courier,1992,1990s,9,Lower Top-10 (8-10),>40,Promoted to Top 10,9.0,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,>40
+30,Monica Seles,1992,1990s,10,Lower Top-10 (8-10),12,Improved,8.5,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,12
+31,Michael Jordan,1993,1990s,1,Podium (1-3),1,Maintained,36.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,1
+32,Riddick Bowe,1993,1990s,2,Podium (1-3),>40,Promoted to Top 10,25.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,>40
+33,Ayrton Senna,1993,1990s,3,Podium (1-3),3,Maintained,18.5,Moderate ($8M-$25M),Auto Racing,Brazil,International,Brazil,Auto racing,3
+34,Alain Prost,1993,1990s,4,Mid-Tier (4-7),>40,Promoted to Top 10,16.0,Moderate ($8M-$25M),Auto Racing,France,International,France,Auto Racing,>40
+35,George Foreman,1993,1990s,5,Mid-Tier (4-7),19,Improved,15.8,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,19
+36,Shaquille O'Neal,1993,1990s,6,Mid-Tier (4-7),>40,Promoted to Top 10,15.2,Moderate ($8M-$25M),Basketball,USA,USA,USA,NBA,>40
+37,Lennox Lewis,1993,1990s,7,Mid-Tier (4-7),>40,Promoted to Top 10,15.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,>40
+38,Cecil Fielder,1993,1990s,8,Lower Top-10 (8-10),40,Improved,12.7,Moderate ($8M-$25M),Baseball,USA,USA,USA,Baseball,40
+39,Jim Courier,1993,1990s,9,Lower Top-10 (8-10),9,Maintained,12.6,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,9
+40,Joe Montana,1993,1990s,10,Lower Top-10 (8-10),7,Dropped,11.5,Moderate ($8M-$25M),American Football,USA,USA,USA,NFL,7
+41,Michael Jordan,1994,1990s,1,Podium (1-3),1,Maintained,30.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,1
+42,Shaq O'Neal,1994,1990s,2,Podium (1-3),6,Improved,16.7,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,6
+43,Jack Nicklaus,1994,1990s,3,Podium (1-3),13,Improved,14.8,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,13
+44,Arnold Palmer,1994,1990s,4,Mid-Tier (4-7),11,Improved,13.6,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,11
+45,Gerhard Berger,1994,1990s,5,Mid-Tier (4-7),30,Improved,13.5,Moderate ($8M-$25M),Auto Racing,Austria,International,Austria,Auto Racing,30
+46,Wayne Gretzky,1994,1990s,5,Mid-Tier (4-7),22,Improved,13.5,Moderate ($8M-$25M),Hockey,Canada,International,Canada,Ice Hockey,22
+47,Michael Moorer,1994,1990s,7,Mid-Tier (4-7),>40,Promoted to Top 10,12.1,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,>40
+48,Evander Holyfield,1994,1990s,8,Lower Top-10 (8-10),12,Improved,12.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,12
+49,Andre Agassi,1994,1990s,9,Lower Top-10 (8-10),20,Improved,11.4,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,20
+50,Nigel Mansell,1994,1990s,10,Lower Top-10 (8-10),19,Improved,11.3,Moderate ($8M-$25M),Auto Racing,UK,International,UK,Auto Racing,19
+51,Michael Jordan,1995,1990s,1,Podium (1-3),1,Maintained,43.9,High ($25M-$60M),Basketball,USA,USA,USA,basketball,1
+52,Mike Tyson,1995,1990s,2,Podium (1-3),Unranked,New Entry,40.0,High ($25M-$60M),Boxing,USA,USA,USA,boxing,not ranked
+53,Deion Sanders,1995,1990s,3,Podium (1-3),38,Improved,22.5,Moderate ($8M-$25M),American Football,USA,USA,USA,American Football / Baseball,38
+54,Riddick Bowe,1995,1990s,4,Mid-Tier (4-7),Unranked,New Entry,22.2,Moderate ($8M-$25M),Boxing,USA,USA,USA,boxing,not ranked
+55,Shaquille O'Neal,1995,1990s,5,Mid-Tier (4-7),2,Dropped,21.9,Moderate ($8M-$25M),Basketball,USA,USA,USA,basketball,2
+56,George Foreman,1995,1990s,6,Mid-Tier (4-7),15,Improved,18.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,boxing,15
+57,Andre Agassi,1995,1990s,7,Mid-Tier (4-7),9,Improved,16.0,Moderate ($8M-$25M),Tennis,USA,USA,USA,tennis,9
+58,Sugar Ray Leonard,1995,1990s,8,Lower Top-10 (8-10),3,Dropped,15.1,Moderate ($8M-$25M),Golf,USA,USA,USA,golf,3
+59,Michael Schumacher,1995,1990s,9,Lower Top-10 (8-10),30,Improved,15.0,Moderate ($8M-$25M),Auto Racing,Germany,International,Germany,auto racing,30
+60,Wayne Gretzky,1995,1990s,10,Lower Top-10 (8-10),5,Dropped,14.5,Moderate ($8M-$25M),Hockey,Canada,International,Canada,ice hockey,5
+61,Mike Tyson,1996,1990s,1,Podium (1-3),2,Improved,75.0,Ultra-High (>$60M),Boxing,USA,USA,USA,Boxing,2
+62,Michael Jordan,1996,1990s,2,Podium (1-3),1,Dropped,52.6,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,1
+63,Michael Schumacher,1996,1990s,3,Podium (1-3),9,Improved,33.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 Motorsports,9
+64,Shaquille O'Neal,1996,1990s,4,Mid-Tier (4-7),5,Improved,24.4,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,5
+65,Emmit Smith,1996,1990s,5,Mid-Tier (4-7),Unranked,New Entry,16.5,Moderate ($8M-$25M),American Football,USA,USA,USA,NFL,not ranked
+66,Evander Holyfield,1996,1990s,6,Mid-Tier (4-7),14,Improved,15.5,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,14
+67,Andre Agassi,1996,1990s,7,Mid-Tier (4-7),7,Maintained,15.2,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,7
+68,Arnold Palmer,1996,1990s,8,Lower Top-10 (8-10),11,Improved,15.1,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,11
+69,Dennis Rodman,1996,1990s,9,Lower Top-10 (8-10),Unranked,New Entry,12.9,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,not ranked
+70,Patrick Ewing,1996,1990s,9,Lower Top-10 (8-10),19,Improved,12.9,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,19
+71,Michael Jordan,1997,1990s,1,Podium (1-3),2,Improved,78.3,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,2
+72,Evander Holyfield,1997,1990s,2,Podium (1-3),6,Improved,54.3,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,6
+73,Oscar De La Hoya,1997,1990s,3,Podium (1-3),17,Improved,38.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,17
+74,Michael Schumacher,1997,1990s,4,Mid-Tier (4-7),3,Dropped,35.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 Motorsports,3
+75,Mike Tyson,1997,1990s,5,Mid-Tier (4-7),1,Dropped,27.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,1
+76,Tiger Woods,1997,1990s,6,Mid-Tier (4-7),26,Improved,26.1,High ($25M-$60M),Golf,USA,USA,USA,Golf,26
+77,Shaquille O'Neal,1997,1990s,7,Mid-Tier (4-7),4,Dropped,25.4,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,4
+78,Dale Earnhardt,1997,1990s,8,Lower Top-10 (8-10),20,Improved,19.1,Moderate ($8M-$25M),Auto Racing,USA,USA,USA,NASCAR,20
+79,Joe Sakic,1997,1990s,9,Lower Top-10 (8-10),Unranked,New Entry,17.9,Moderate ($8M-$25M),Hockey,Canada,International,Canada,Hockey,none
+80,Grant Hill,1997,1990s,10,Lower Top-10 (8-10),18,Improved,17.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,18
+81,Michael Jordan,1998,1990s,1,Podium (1-3),Unranked,New Entry,69.0,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,
+82,Michael Schumacher,1998,1990s,2,Podium (1-3),Unranked,New Entry,38.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 Motorsports,
+83,Sergei Federov,1998,1990s,3,Podium (1-3),Unranked,New Entry,29.8,High ($25M-$60M),Hockey,Russia,International,Russia,Ice Hockey,
+84,Tiger Woods,1998,1990s,4,Mid-Tier (4-7),Unranked,New Entry,26.8,High ($25M-$60M),Golf,USA,USA,USA,Golf,
+85,Dale Earnhardt,1998,1990s,5,Mid-Tier (4-7),Unranked,New Entry,24.1,Moderate ($8M-$25M),Auto Racing,USA,USA,USA,NASCAR,
+86,Grant Hill,1998,1990s,6,Mid-Tier (4-7),Unranked,New Entry,21.6,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,
+87,Oscar De La Hoya,1998,1990s,7,Mid-Tier (4-7),Unranked,New Entry,18.5,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,
+88,Patrick Ewing,1998,1990s,8,Lower Top-10 (8-10),Unranked,New Entry,18.3,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,
+89,Arnold Palmer,1998,1990s,9,Lower Top-10 (8-10),Unranked,New Entry,18.1,Moderate ($8M-$25M),Golf,USA,USA,USA,Golf,
+90,Gary Sheffield,1998,1990s,10,Lower Top-10 (8-10),Unranked,New Entry,17.2,Moderate ($8M-$25M),Baseball,USA,USA,USA,Baseball,
+91,Michael Schumacher,1999,1990s,1,Podium (1-3),2,Improved,49.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,Auto Racing,2
+92,Tiger Woods,1999,1990s,2,Podium (1-3),4,Improved,47.0,High ($25M-$60M),Golf,USA,USA,USA,Golf,4
+93,Oscar De La Hoya,1999,1990s,3,Podium (1-3),7,Improved,43.5,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,7
+94,Michael Jordan,1999,1990s,4,Mid-Tier (4-7),1,Dropped,40.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,1
+95,Evander Holyfield,1999,1990s,5,Mid-Tier (4-7),>10,Promoted to Top 10,35.5,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,>10
+96,Mike Tyson,1999,1990s,6,Mid-Tier (4-7),>10,Promoted to Top 10,33.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,>10
+97,Shaq O'Neal,1999,1990s,7,Mid-Tier (4-7),>10,Promoted to Top 10,31.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,>10
+98,Lennox Lewis,1999,1990s,8,Lower Top-10 (8-10),>10,Promoted to Top 10,29.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,>10
+99,Dale Earnhardt,1999,1990s,9,Lower Top-10 (8-10),5,Dropped,26.5,High ($25M-$60M),Auto Racing,USA,USA,USA,Auto Racing,5
+100,Grant Hill,1999,1990s,10,Lower Top-10 (8-10),6,Dropped,23.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,6
+101,Michael Schumacher,2000,2000s,1,Podium (1-3),1,Maintained,59.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,Auto Racing,1
+102,Tiger Woods,2000,2000s,2,Podium (1-3),2,Maintained,53.0,High ($25M-$60M),Golf,USA,USA,USA,Golf,2
+103,Mike Tyson,2000,2000s,3,Podium (1-3),6,Improved,48.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,6
+104,Michael Jordan,2000,2000s,4,Mid-Tier (4-7),4,Maintained,37.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,4
+105,Grant Hill,2000,2000s,5,Mid-Tier (4-7),10,Improved,26.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,10
+106,Dale Earnhardt,2000,2000s,6,Mid-Tier (4-7),9,Improved,24.5,Moderate ($8M-$25M),Auto Racing,USA,USA,USA,Auto Racing (Nascar),9
+107,Shaq O'Neal,2000,2000s,7,Mid-Tier (4-7),7,Maintained,24.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,7
+108,Lennox Lewis,2000,2000s,8,Lower Top-10 (8-10),8,Maintained,23.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,8
+109,Oscar De La Hoya,2000,2000s,9,Lower Top-10 (8-10),3,Dropped,23.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,3
+110,Kevin Garnett,2000,2000s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,21.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,>10
+111,Tiger Woods,2002,2000s,1,Podium (1-3),2,Improved,69.0,Ultra-High (>$60M),Golf,USA,USA,USA,Golf,2
+112,Michael Schumacher,2002,2000s,2,Podium (1-3),1,Dropped,67.0,Ultra-High (>$60M),Auto Racing,Germany,International,Germany,F1 Motorsports,1
+113,Michael Jordan,2002,2000s,3,Podium (1-3),4,Improved,36.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,4
+114,Lennox Lewis,2002,2000s,4,Mid-Tier (4-7),8,Improved,28.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,8
+115,Grant Hill,2002,2000s,5,Mid-Tier (4-7),5,Maintained,24.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,5
+116,Shaquille O'Neal,2002,2000s,5,Mid-Tier (4-7),7,Improved,24.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,7
+117,Mike Tyson,2002,2000s,7,Mid-Tier (4-7),3,Dropped,23.0,Moderate ($8M-$25M),Boxing,USA,USA,USA,Boxing,3
+118,Kevin Garnett,2002,2000s,7,Mid-Tier (4-7),10,Improved,23.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,10
+119,Kobe Bryant,2002,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,22.0,Moderate ($8M-$25M),Basketball,USA,USA,USA,Basketball,>10
+120,Jacques Villeneuve,2002,2000s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,20.0,Moderate ($8M-$25M),Auto Racing,Canada,International,Canada,Auto Racing,>10
+121,Jeff Gordon,2002,2000s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,20.0,Moderate ($8M-$25M),Auto Racing,USA,USA,USA,Auto Racing (Nascar),>10
+122,Tiger Woods,2003,2000s,1,Podium (1-3),1,Maintained,78.0,Ultra-High (>$60M),Golf,USA,USA,USA,Golf,1
+123,Michael Schumacher,2003,2000s,2,Podium (1-3),2,Maintained,75.0,Ultra-High (>$60M),Auto Racing,Germany,International,Germany,F1 Motorsports,2
+124,Michael Jordan,2003,2000s,3,Podium (1-3),3,Maintained,35.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,3
+125,Shaq O'Neal,2003,2000s,4,Mid-Tier (4-7),5,Improved,30.5,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,5
+126,Oscar De La Hoya,2003,2000s,5,Mid-Tier (4-7),>10,Promoted to Top 10,30.0,High ($25M-$60M),Boxing,USA,USA,USA,Boxing,>10
+127,Kevin Garnett,2003,2000s,6,Mid-Tier (4-7),7,Improved,28.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,7
+128,Alex Rodriguez,2003,2000s,7,Mid-Tier (4-7),>10,Promoted to Top 10,26.0,High ($25M-$60M),Baseball,USA,USA,USA,Baseball,>10
+129,Grant Hill,2003,2000s,8,Lower Top-10 (8-10),5,Dropped,25.5,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,5
+130,Andre Agassi,2003,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,24.0,Moderate ($8M-$25M),Tennis,USA,USA,USA,Tennis,>10
+131,Jacques Villeneuve,2003,2000s,10,Lower Top-10 (8-10),10,Maintained,23.0,Moderate ($8M-$25M),Auto Racing,Canada,International,Canada,Auto Racing,10
+132,Tiger Woods,2004,2000s,1,Podium (1-3),1,Maintained,80.3,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+133,Michael Schumacher,2004,2000s,2,Podium (1-3),2,Maintained,80.0,Ultra-High (>$60M),Auto Racing,Germany,International,Germany,F1 racing,2
+134,Peyton Manning,2004,2000s,3,Podium (1-3),>10,Promoted to Top 10,42.0,High ($25M-$60M),American Football,USA,USA,USA,American Football,>10
+135,Michael Jordan,2004,2000s,4,Mid-Tier (4-7),3,Dropped,35.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,3
+136,Shaquille O'Neal,2004,2000s,5,Mid-Tier (4-7),4,Dropped,31.9,High ($25M-$60M),Basketball,USA,USA,USA,basketball,4
+137,Kevin Garnett,2004,2000s,6,Mid-Tier (4-7),6,Maintained,29.7,High ($25M-$60M),Basketball,USA,USA,USA,basketball,6
+138,Andre Agassi,2004,2000s,7,Mid-Tier (4-7),9,Improved,28.2,High ($25M-$60M),Tennis,USA,USA,USA,tennis,9
+139,David Beckham,2004,2000s,8,Lower Top-10 (8-10),>10,Promoted to Top 10,28.0,High ($25M-$60M),Soccer,UK,International,UK,soccer,>10
+140,Alex Rodriguez,2004,2000s,9,Lower Top-10 (8-10),7,Dropped,26.2,High ($25M-$60M),Baseball,USA,USA,USA,baseball,7
+141,Kobe Bryant,2004,2000s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,26.1,High ($25M-$60M),Basketball,USA,USA,USA,basketball,>10
+142,Tiger Woods,2005,2000s,1,Podium (1-3),1,Maintained,87.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+143,Michael Schumacher,2005,2000s,2,Podium (1-3),2,Maintained,60.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 racing,2
+144,Oscar De La Hoya,2005,2000s,3,Podium (1-3),>10,Promoted to Top 10,38.0,High ($25M-$60M),Boxing,USA,USA,USA,boxing,>10
+145,Michael Vick,2005,2000s,4,Mid-Tier (4-7),>10,Promoted to Top 10,37.5,High ($25M-$60M),American Football,USA,USA,USA,American Football,>10
+146,Shaquille O'Neal,2005,2000s,5,Mid-Tier (4-7),5,Maintained,33.4,High ($25M-$60M),Basketball,USA,USA,USA,basketball,5
+147,Michael Jordan,2005,2000s,6,Mid-Tier (4-7),4,Dropped,33.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,4
+148,David Beckham,2005,2000s,7,Mid-Tier (4-7),8,Improved,32.5,High ($25M-$60M),Soccer,UK,International,UK,soccer,8
+149,Kobe Bryant,2005,2000s,8,Lower Top-10 (8-10),10,Improved,28.8,High ($25M-$60M),Basketball,USA,USA,USA,basketball,10
+150,Lance Armstrong,2005,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,28.0,High ($25M-$60M),Cycling,USA,USA,USA,cycling,>10
+151,Valentino Rossi,2005,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,28.0,High ($25M-$60M),Auto Racing,Italy,International,Italy,motorcycle gp,>10
+152,Tiger Woods,2006,2000s,1,Podium (1-3),1,Maintained,90.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+153,Michael Schumacher,2006,2000s,2,Podium (1-3),2,Maintained,58.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 racing,2
+154,Muhammad Ali,2006,2000s,3,Podium (1-3),>10,Promoted to Top 10,55.0,High ($25M-$60M),Boxing,USA,USA,USA,boxing,>10
+155,Phil Mickelson,2006,2000s,4,Mid-Tier (4-7),>10,Promoted to Top 10,47.0,High ($25M-$60M),Golf,USA,USA,USA,golf,>10
+156,Michael Jordan,2006,2000s,5,Mid-Tier (4-7),6,Improved,32.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,6
+157,Kobe Bryant,2006,2000s,6,Mid-Tier (4-7),8,Improved,31.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,8
+158,Shaquille O'Neal,2006,2000s,7,Mid-Tier (4-7),5,Dropped,30.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,5
+159,Valentino Rossi,2006,2000s,8,Lower Top-10 (8-10),9,Improved,30.0,High ($25M-$60M),Auto Racing,Italy,International,Italy,motorcycle gp,9
+160,Alex Rodriguez,2006,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,29.0,High ($25M-$60M),Baseball,USA,USA,USA,baseball,>10
+161,Tom Brady,2006,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,29.0,High ($25M-$60M),American Football,USA,USA,USA,American Football,>10
+162,Tiger Woods,2007,2000s,1,Podium (1-3),1,Maintained,100.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+163,Oscar De La Hoya,2007,2000s,2,Podium (1-3),>10,Promoted to Top 10,43.0,High ($25M-$60M),Boxing,USA,USA,USA,boxing,>10
+164,Phil Mickelson,2007,2000s,3,Podium (1-3),4,Improved,42.0,High ($25M-$60M),Golf,USA,USA,USA,golf,4
+165,Kimi Raikkonen,2007,2000s,4,Mid-Tier (4-7),>10,Promoted to Top 10,40.0,High ($25M-$60M),Auto Racing,Finland,International,Finland,F1 racing,>10
+166,Michael Schumacher,2007,2000s,5,Mid-Tier (4-7),2,Dropped,36.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 racing,2
+167,David Beckham,2007,2000s,6,Mid-Tier (4-7),>10,Promoted to Top 10,33.0,High ($25M-$60M),Soccer,UK,International,UK,soccer,>10
+168,Kobe Bryant,2007,2000s,6,Mid-Tier (4-7),>10,Promoted to Top 10,33.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,>10
+169,Shaquille O'Neal,2007,2000s,8,Lower Top-10 (8-10),7,Dropped,32.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,7
+170,Ronaldinho,2007,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,31.0,High ($25M-$60M),Soccer,Brazil,International,Brazil,soccer,>10
+171,Michael Jordan,2007,2000s,9,Lower Top-10 (8-10),5,Dropped,31.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,5
+172,Tiger Woods,2008,2000s,1,Podium (1-3),1,Maintained,115.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+173,David Beckham,2008,2000s,2,Podium (1-3),6,Improved,50.0,High ($25M-$60M),Soccer,UK,International,UK,soccer,6
+174,Michael Jordan,2008,2000s,3,Podium (1-3),9,Improved,45.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,9
+175,Phil Mickelson,2008,2000s,3,Podium (1-3),3,Maintained,45.0,High ($25M-$60M),Golf,USA,USA,USA,golf,3
+176,Kimi Raikkonen,2008,2000s,5,Mid-Tier (4-7),4,Dropped,44.0,High ($25M-$60M),Auto Racing,Finland,International,Finland,F1 racing,4
+177,Kobe Bryant,2008,2000s,6,Mid-Tier (4-7),7,Improved,39.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,7
+178,LeBron James,2008,2000s,7,Mid-Tier (4-7),>10,Promoted to Top 10,38.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,>10
+179,Ronaldinho,2008,2000s,8,Lower Top-10 (8-10),9,Improved,37.0,High ($25M-$60M),Soccer,Brazil,International,Brazil,soccer,9
+180,Valentino Rossi,2008,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,35.0,High ($25M-$60M),Auto Racing,Italy,International,Italy,motorcycle gp,>10
+181,Roger Federer,2008,2000s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,35.0,High ($25M-$60M),Tennis,Switzerland,International,Switzerland,tennis,>10
+182,Tiger Woods,2009,2000s,1,Podium (1-3),1,Maintained,110.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+183,Kobe Bryant,2009,2000s,2,Podium (1-3),6,Improved,45.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,6
+184,Michael Jordan,2009,2000s,2,Podium (1-3),3,Improved,45.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,3
+185,Kimi Raikkonen,2009,2000s,2,Podium (1-3),5,Improved,45.0,High ($25M-$60M),Auto Racing,Finland,International,Finland,F1 racing,5
+186,David Beckham,2009,2000s,5,Mid-Tier (4-7),2,Dropped,42.0,High ($25M-$60M),Soccer,UK,International,UK,soccer,2
+187,LeBron James,2009,2000s,6,Mid-Tier (4-7),7,Improved,40.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,7
+188,Phil Mickelson,2009,2000s,6,Mid-Tier (4-7),3,Dropped,40.0,High ($25M-$60M),Golf,USA,USA,USA,golf,3
+189,Manny Pacquiao,2009,2000s,6,Mid-Tier (4-7),>10,Promoted to Top 10,40.0,High ($25M-$60M),Boxing,Philippines,International,Philippines,boxing,>10
+190,Valentino Rossi,2009,2000s,9,Lower Top-10 (8-10),9,Maintained,35.0,High ($25M-$60M),Auto Racing,Italy,International,Italy,motorcycle gp,9
+191,Dale Earnhardt Jr.,2009,2000s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,34.0,High ($25M-$60M),Auto Racing,USA,USA,USA,NASCAR,>10
+192,Tiger Woods,2010,2010s,1,Podium (1-3),1,Maintained,105.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+193,Floyd Mayweather,2010,2010s,2,Podium (1-3),>10,Promoted to Top 10,65.0,Ultra-High (>$60M),Boxing,USA,USA,USA,boxing,>10
+194,Kobe Bryant,2010,2010s,3,Podium (1-3),2,Dropped,48.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,2
+195,Phil Mickelson,2010,2010s,4,Mid-Tier (4-7),6,Improved,46.0,High ($25M-$60M),Golf,USA,USA,USA,golf,6
+196,David Beckham,2010,2010s,5,Mid-Tier (4-7),5,Maintained,43.7,High ($25M-$60M),Soccer,UK,International,UK,soccer,5
+197,Roger Federer,2010,2010s,6,Mid-Tier (4-7),>10,Promoted to Top 10,43.0,High ($25M-$60M),Tennis,Switzerland,International,Switzerland,tennis,>10
+198,LeBron James,2010,2010s,7,Mid-Tier (4-7),6,Dropped,42.8,High ($25M-$60M),Basketball,USA,USA,USA,basketball,6
+199,Manny Pacquiao,2010,2010s,8,Lower Top-10 (8-10),6,Dropped,42.0,High ($25M-$60M),Boxing,Philippines,International,Philippines,boxing,6
+200,Eli Manning,2010,2010s,9,Lower Top-10 (8-10),>10,Promoted to Top 10,39.9,High ($25M-$60M),American Football,USA,USA,USA,American Football,>10
+201,Terrell Suggs,2010,2010s,10,Lower Top-10 (8-10),>10,Promoted to Top 10,38.3,High ($25M-$60M),American Football,USA,USA,USA,American Football,>10
+202,Tiger Woods,2011,2010s,1,Podium (1-3),1,Maintained,75.0,Ultra-High (>$60M),Golf,USA,USA,USA,golf,1
+203,Kobe Bryant,2011,2010s,2,Podium (1-3),3,Improved,53.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,3
+204,LeBron James,2011,2010s,3,Podium (1-3),7,Improved,48.0,High ($25M-$60M),Basketball,USA,USA,USA,basketball,7
+205,Roger Federer,2011,2010s,4,Mid-Tier (4-7),6,Improved,47.0,High ($25M-$60M),Tennis,Switzerland,International,Switzerland,tennis,6
+206,Phil Mickelson,2011,2010s,5,Mid-Tier (4-7),4,Dropped,46.5,High ($25M-$60M),Golf,USA,USA,USA,golf,4
+207,David Beckham,2011,2010s,6,Mid-Tier (4-7),5,Dropped,40.0,High ($25M-$60M),Soccer,UK,International,UK,soccer,5
+208,Cristiano Ronaldo,2011,2010s,7,Mid-Tier (4-7),13,Improved,38.0,High ($25M-$60M),Soccer,Portugal,International,Portugal,soccer,13
+209,Alex Rodriguez,2011,2010s,8,Lower Top-10 (8-10),12,Improved,35.0,High ($25M-$60M),Baseball,Dominican Republic,International,Dominican,baseball,12
+210,Michael Schumacher,2011,2010s,9,Lower Top-10 (8-10),>20,Promoted to Top 10,34.0,High ($25M-$60M),Auto Racing,Germany,International,Germany,F1 racing,>20
+211,Lionel Messi,2011,2010s,10,Lower Top-10 (8-10),>20,Promoted to Top 10,32.3,High ($25M-$60M),Soccer,Argentina,International,Argentina,soccer,>20
+212,Floyd Mayweather,2012,2010s,1,Podium (1-3),Unranked,New Entry,85.0,Ultra-High (>$60M),Boxing,USA,USA,USA,Boxing,?
+213,Manny Pacquiao,2012,2010s,2,Podium (1-3),24,Improved,62.0,Ultra-High (>$60M),Boxing,Philippines,International,Filipino,Boxing,24
+214,Tiger Woods,2012,2010s,3,Podium (1-3),1,Dropped,59.4,High ($25M-$60M),Golf,USA,USA,USA,Golf,1
+215,LeBron James,2012,2010s,4,Mid-Tier (4-7),3,Dropped,53.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,3
+216,Roger Federer,2012,2010s,5,Mid-Tier (4-7),4,Dropped,52.7,High ($25M-$60M),Tennis,Switzerland,International,Switzerland,Tennis,4
+217,Kobe Bryant,2012,2010s,6,Mid-Tier (4-7),2,Dropped,52.3,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,2
+218,Phil Mickelson,2012,2010s,7,Mid-Tier (4-7),5,Dropped,47.8,High ($25M-$60M),Golf,USA,USA,USA,Golf,5
+219,David Beckham,2012,2010s,8,Lower Top-10 (8-10),6,Dropped,46.0,High ($25M-$60M),Soccer,UK,International,UK,Soccer,6
+220,Cristiano Ronaldo,2012,2010s,9,Lower Top-10 (8-10),21,Improved,42.5,High ($25M-$60M),Soccer,Portugal,International,Portugal,Soccer,21
+221,Peyton Manning,2012,2010s,10,Lower Top-10 (8-10),7,Dropped,42.4,High ($25M-$60M),American Football,USA,USA,USA,American Football,7
+222,Tiger Woods,2013,2010s,1,Podium (1-3),3,Improved,78.1,Ultra-High (>$60M),Golf,USA,USA,USA,Golf,3
+223,Roger Federer,2013,2010s,2,Podium (1-3),5,Improved,71.5,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,5
+224,Kobe Bryant,2013,2010s,3,Podium (1-3),6,Improved,61.9,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,6
+225,LeBron James,2013,2010s,4,Mid-Tier (4-7),4,Maintained,59.8,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,4
+226,Drew Brees,2013,2010s,5,Mid-Tier (4-7),Unranked,New Entry,51.0,High ($25M-$60M),American Football,USA,USA,USA,American Football,?
+227,Aaron Rodgers,2013,2010s,6,Mid-Tier (4-7),Unranked,New Entry,49.0,High ($25M-$60M),American Football,USA,USA,USA,American Football,?
+228,Phil Mickelson,2013,2010s,7,Mid-Tier (4-7),7,Maintained,48.7,High ($25M-$60M),Golf,USA,USA,USA,Golf,7
+229,David Beckham,2013,2010s,8,Lower Top-10 (8-10),8,Maintained,47.2,High ($25M-$60M),Soccer,UK,International,UK,Soccer,8
+230,Cristiano Ronaldo,2013,2010s,9,Lower Top-10 (8-10),9,Maintained,44.0,High ($25M-$60M),Soccer,Portugal,International,Portugal,Soccer,9
+231,Lionel Messi,2013,2010s,10,Lower Top-10 (8-10),11,Improved,41.3,High ($25M-$60M),Soccer,Argentina,International,Argentina,Soccer,11
+232,Floyd Mayweather,2014,2010s,1,Podium (1-3),14,Improved,105.0,Ultra-High (>$60M),Boxing,USA,USA,USA,Boxing,14
+233,Cristiano Ronaldo,2014,2010s,2,Podium (1-3),9,Improved,80.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,9
+234,LeBron James,2014,2010s,3,Podium (1-3),4,Improved,72.3,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,4
+235,Lionel Messi,2014,2010s,4,Mid-Tier (4-7),10,Improved,64.7,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,10
+236,Kobe Bryant,2014,2010s,5,Mid-Tier (4-7),3,Dropped,61.5,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,3
+237,Tiger Woods,2014,2010s,6,Mid-Tier (4-7),1,Dropped,61.2,Ultra-High (>$60M),Golf,USA,USA,USA,Golf,1
+238,Roger Federer,2014,2010s,7,Mid-Tier (4-7),2,Dropped,56.2,High ($25M-$60M),Tennis,Switzerland,International,Switzerland,Tennis,2
+239,Phil Mickelson,2014,2010s,8,Lower Top-10 (8-10),7,Dropped,53.2,High ($25M-$60M),Golf,USA,USA,USA,Golf,7
+240,Rafael Nadal,2014,2010s,9,Lower Top-10 (8-10),>14,Promoted to Top 10,44.5,High ($25M-$60M),Tennis,Spain,International,Spain,Tennis,>14
+241,Matt Ryan,2014,2010s,10,Lower Top-10 (8-10),>100,Promoted to Top 10,43.8,High ($25M-$60M),American Football,USA,USA,USA,American Football,>100
+242,Floyd Mayweather,2015,2010s,1,Podium (1-3),1,Maintained,300.0,Ultra-High (>$60M),Boxing,USA,USA,USA,Boxing,1
+243,Manny Pacquiao,2015,2010s,2,Podium (1-3),11,Improved,160.0,Ultra-High (>$60M),Boxing,Philippines,International,Philippines,Boxing,11
+244,Cristiano Ronaldo,2015,2010s,3,Podium (1-3),2,Dropped,79.6,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,2
+245,Lionel Messi,2015,2010s,4,Mid-Tier (4-7),4,Maintained,73.8,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,4
+246,Roger Federer,2015,2010s,5,Mid-Tier (4-7),7,Improved,67.0,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,7
+247,LeBron James,2015,2010s,6,Mid-Tier (4-7),3,Dropped,64.8,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,3
+248,Kevin Durant,2015,2010s,7,Mid-Tier (4-7),20,Improved,54.2,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,20
+249,Phil Mickelson,2015,2010s,8,Lower Top-10 (8-10),8,Maintained,50.8,High ($25M-$60M),Golf,USA,USA,USA,Golf,8
+250,Tiger Woods,2015,2010s,9,Lower Top-10 (8-10),6,Dropped,50.6,High ($25M-$60M),Golf,USA,USA,USA,Golf,6
+251,Kobe Bryant,2015,2010s,10,Lower Top-10 (8-10),5,Dropped,49.5,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,5
+252,Cristiano Ronaldo,2016,2010s,1,Podium (1-3),3,Improved,88.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,3
+253,Lionel Messi,2016,2010s,2,Podium (1-3),4,Improved,81.4,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,4
+254,LeBron James,2016,2010s,3,Podium (1-3),6,Improved,77.2,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,6
+255,Roger Federer,2016,2010s,4,Mid-Tier (4-7),5,Improved,67.8,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,5
+256,Kevin Durant,2016,2010s,5,Mid-Tier (4-7),7,Improved,56.2,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,7
+257,Novak Djokovic,2016,2010s,6,Mid-Tier (4-7),13,Improved,55.8,High ($25M-$60M),Tennis,Serbia,International,Serbia,Tennis,13
+258,Cam Newton,2016,2010s,7,Mid-Tier (4-7),>20,Promoted to Top 10,53.1,High ($25M-$60M),American Football,USA,USA,USA,American Football,>20
+259,Phil Mickelson,2016,2010s,8,Lower Top-10 (8-10),8,Maintained,52.9,High ($25M-$60M),Golf,USA,USA,USA,Golf,8
+260,Jordan Spieth,2016,2010s,9,Lower Top-10 (8-10),>20,Promoted to Top 10,52.8,High ($25M-$60M),Golf,USA,USA,USA,Golf,>20
+261,Kobe Bryant,2016,2010s,10,Lower Top-10 (8-10),10,Maintained,50.0,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,10
+262,Cristiano Ronaldo,2017,2010s,1,Podium (1-3),1,Maintained,93.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,1
+263,LeBron James,2017,2010s,2,Podium (1-3),3,Improved,86.2,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,3
+264,Lionel Messi,2017,2010s,3,Podium (1-3),2,Dropped,80.0,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,2
+265,Roger Federer,2017,2010s,4,Mid-Tier (4-7),4,Maintained,64.0,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,4
+266,Kevin Durant,2017,2010s,5,Mid-Tier (4-7),5,Maintained,60.6,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,5
+267,Andrew Luck,2017,2010s,6,Mid-Tier (4-7),Unranked,New Entry,50.0,High ($25M-$60M),American Football,USA,USA,USA,American Football,
+268,Rory McIlroy,2017,2010s,6,Mid-Tier (4-7),17,Improved,50.0,High ($25M-$60M),Golf,Northern Ireland,International,Northern Ireland,Golf,17
+269,Stephen Curry,2017,2010s,8,Lower Top-10 (8-10),Unranked,New Entry,47.3,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,
+270,James Harden,2017,2010s,9,Lower Top-10 (8-10),Unranked,New Entry,46.6,High ($25M-$60M),Basketball,USA,USA,USA,Basketball,
+271,Lewis Hamilton,2017,2010s,10,Lower Top-10 (8-10),Unranked,New Entry,46.0,High ($25M-$60M),Auto Racing,UK,International,UK,auto racing,
+272,Floyd Mayweather,2018,2010s,1,Podium (1-3),>100,Promoted to Top 10,285.0,Ultra-High (>$60M),Boxing,USA,USA,USA,Boxing,>100
+273,Lionel Messi,2018,2010s,2,Podium (1-3),3,Improved,111.0,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,3
+274,Cristiano Ronaldo,2018,2010s,3,Podium (1-3),1,Dropped,108.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,1
+275,Conor McGregor,2018,2010s,4,Mid-Tier (4-7),24,Improved,99.0,Ultra-High (>$60M),MMA,Ireland,International,Ireland,MMA,24
+276,Neymar,2018,2010s,5,Mid-Tier (4-7),18,Improved,90.0,Ultra-High (>$60M),Soccer,Brazil,International,Brazil,Soccer,18
+277,LeBron James,2018,2010s,6,Mid-Tier (4-7),2,Dropped,85.5,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,2
+278,Roger Federer,2018,2010s,7,Mid-Tier (4-7),4,Dropped,77.2,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,4
+279,Stephen Curry,2018,2010s,8,Lower Top-10 (8-10),8,Maintained,76.9,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,8
+280,Matt Ryan,2018,2010s,9,Lower Top-10 (8-10),>100,Promoted to Top 10,67.3,Ultra-High (>$60M),American Football,USA,USA,USA,American Football,>100
+281,Matthew Stafford,2018,2010s,10,Lower Top-10 (8-10),>100,Promoted to Top 10,59.5,High ($25M-$60M),American Football,USA,USA,USA,American Football,>100
+282,Lionel Messi,2019,2010s,1,Podium (1-3),2,Improved,127.0,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,2
+283,Cristiano Ronaldo,2019,2010s,2,Podium (1-3),3,Improved,109.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,3
+284,Neymar,2019,2010s,3,Podium (1-3),5,Improved,105.0,Ultra-High (>$60M),Soccer,Brazil,International,Brazil,Soccer,5
+285,Canelo Alvarez,2019,2010s,4,Mid-Tier (4-7),15,Improved,94.0,Ultra-High (>$60M),Boxing,Mexico,International,Mexico,Boxing,15
+286,Roger Federer,2019,2010s,5,Mid-Tier (4-7),7,Improved,93.4,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,7
+287,Russell Wilson,2019,2010s,6,Mid-Tier (4-7),Unranked,New Entry,89.5,Ultra-High (>$60M),American Football,USA,USA,USA,American Football,??
+288,Aaron Rogers,2019,2010s,7,Mid-Tier (4-7),Unranked,New Entry,89.3,Ultra-High (>$60M),American Football,USA,USA,USA,American Football,??
+289,LeBron James,2019,2010s,8,Lower Top-10 (8-10),6,Dropped,89.0,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,6
+290,Stephen Curry,2019,2010s,9,Lower Top-10 (8-10),8,Dropped,79.8,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,8
+291,Kevin Durant,2019,2010s,10,Lower Top-10 (8-10),11,Improved,65.4,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,11
+292,Roger Federer,2020,2020s,1,Podium (1-3),5,Improved,106.3,Ultra-High (>$60M),Tennis,Switzerland,International,Switzerland,Tennis,5
+293,Cristiano Ronaldo,2020,2020s,2,Podium (1-3),2,Maintained,105.0,Ultra-High (>$60M),Soccer,Portugal,International,Portugal,Soccer,2
+294,Lionel Messi,2020,2020s,3,Podium (1-3),1,Dropped,104.0,Ultra-High (>$60M),Soccer,Argentina,International,Argentina,Soccer,1
+295,Neymar,2020,2020s,4,Mid-Tier (4-7),3,Dropped,95.5,Ultra-High (>$60M),Soccer,Brazil,International,Brazil,Soccer,3
+296,LeBron James,2020,2020s,5,Mid-Tier (4-7),8,Improved,88.2,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,8
+297,Stephen Curry,2020,2020s,6,Mid-Tier (4-7),9,Improved,74.4,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,9
+298,Kevin Durant,2020,2020s,7,Mid-Tier (4-7),10,Improved,63.9,Ultra-High (>$60M),Basketball,USA,USA,USA,Basketball,10
+299,Tiger Woods,2020,2020s,8,Lower Top-10 (8-10),11,Improved,62.3,Ultra-High (>$60M),Golf,USA,USA,USA,Golf,11
+300,Kirk Cousins,2020,2020s,9,Lower Top-10 (8-10),>100,Promoted to Top 10,60.5,Ultra-High (>$60M),American Football,USA,USA,USA,American Football,>100
+301,Carson Wentz,2020,2020s,10,Lower Top-10 (8-10),>100,Promoted to Top 10,59.1,High ($25M-$60M),American Football,USA,USA,USA,American Football,>100

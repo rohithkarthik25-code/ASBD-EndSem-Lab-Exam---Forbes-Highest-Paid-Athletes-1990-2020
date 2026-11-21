@@ -1,0 +1,97 @@
+{
+  "algorithm": "Apache Spark MLlib FP-Growth (pyspark.ml.fpm.FPGrowth)",
+  "spark_version": "4.3.0",
+  "master": "local[2]",
+  "dataset_information": {
+    "source_file": "results/dic_transactions.csv",
+    "total_transactions": 301,
+    "items_per_transaction": 5,
+    "unique_items_universe": 23
+  },
+  "configuration_parameters": {
+    "min_support": 0.08,
+    "min_support_count": 25,
+    "min_confidence": 0.5
+  },
+  "execution_performance": {
+    "fit_duration_seconds": 3.01,
+    "total_duration_seconds": 19.5
+  },
+  "frequent_itemsets_summary": {
+    "total_frequent_itemsets": 87,
+    "distribution_by_cardinality": {
+      "size_1": 16,
+      "size_2": 46,
+      "size_3": 23,
+      "size_4": 2
+    }
+  },
+  "association_rules_summary": {
+    "total_rules_generated": 71,
+    "rules_with_lift_ge_1_0": 65,
+    "rules_with_lift_ge_1_1": 52,
+    "rules_with_lift_lt_1_0": 6,
+    "consequent_length_distribution": {
+      "consequent_len_1": 71
+    },
+    "top_5_rules_by_lift": [
+      {
+        "antecedent": "Decade=2010s, Rank=Podium",
+        "consequent": "Earnings=Ultra-High",
+        "antecedent_len": 2,
+        "consequent_len": 1,
+        "support_count": 26,
+        "support": 0.0864,
+        "confidence": 0.8667,
+        "lift": 3.6231
+      },
+      {
+        "antecedent": "Decade=1990s, Rank=Lower",
+        "consequent": "Earnings=Moderate",
+        "antecedent_len": 2,
+        "consequent_len": 1,
+        "support_count": 28,
+        "support": 0.093,
+        "confidence": 0.9333,
+        "lift": 3.4683
+      },
+      {
+        "antecedent": "Sport=Soccer",
+        "consequent": "Nation=International",
+        "antecedent_len": 1,
+        "consequent_len": 1,
+        "support_count": 33,
+        "support": 0.1096,
+        "confidence": 1.0,
+        "lift": 3.1684
+      },
+      {
+        "antecedent": "Decade=1990s, Rank=Mid-Tier",
+        "consequent": "Earnings=Moderate",
+        "antecedent_len": 2,
+        "consequent_len": 1,
+        "support_count": 31,
+        "support": 0.103,
+        "confidence": 0.775,
+        "lift": 2.8799
+      },
+      {
+        "antecedent": "Sport=Auto Racing",
+        "consequent": "Nation=International",
+        "antecedent_len": 1,
+        "consequent_len": 1,
+        "support_count": 34,
+        "support": 0.113,
+        "confidence": 0.85,
+        "lift": 2.6932
+      }
+    ]
+  },
+  "verification_status": {
+    "input_validation": "PASS (301 transactions, 23 items, zero empty/duplicates)",
+    "frequent_itemsets_generated": true,
+    "association_rules_generated": true,
+    "csv_outputs_valid": true,
+    "spark_clean_shutdown": true
+  }
+}

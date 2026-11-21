@@ -1,0 +1,16 @@
+framework,run_id,preprocessing_time_ms,model_prep_time_ms,prediction_time_ms,compute_time_ms,spark_init_time_ms,total_execution_time_ms,accuracy,macro_f1,weighted_f1
+Scikit-Learn (Conventional),1,7.171,3.036,3.887,6.923,0.0,14.094,0.7049,0.7042,0.704
+Scikit-Learn (Conventional),2,7.171,1.585,1.939,3.523,0.0,10.695,0.7049,0.7042,0.704
+Scikit-Learn (Conventional),3,7.171,1.617,2.346,3.963,0.0,11.134,0.7049,0.7042,0.704
+Scikit-Learn (Conventional),4,7.171,1.556,2.685,4.241,0.0,11.412,0.7049,0.7042,0.704
+Scikit-Learn (Conventional),5,7.171,1.935,3.748,5.683,0.0,12.854,0.7049,0.7042,0.704
+PySpark KNN (Warm Execution),1,7.171,0.0,2839.092,2839.092,0.0,2846.263,0.7049,0.7042,0.704
+PySpark KNN (Warm Execution),2,7.171,0.0,2688.119,2688.119,0.0,2695.29,0.7049,0.7042,0.704
+PySpark KNN (Warm Execution),3,7.171,0.0,3331.308,3331.308,0.0,3338.479,0.7049,0.7042,0.704
+PySpark KNN (Warm Execution),4,7.171,0.0,2804.302,2804.302,0.0,2811.473,0.7049,0.7042,0.704
+PySpark KNN (Warm Execution),5,7.171,0.0,2707.833,2707.833,0.0,2715.005,0.7049,0.7042,0.704
+PySpark KNN (Cold Start),1,7.171,0.0,2714.389,2714.389,124.409,2845.969,0.7049,0.7042,0.704
+PySpark KNN (Cold Start),2,7.171,0.0,2700.756,2700.756,100.055,2807.983,0.7049,0.7042,0.704
+PySpark KNN (Cold Start),3,7.171,0.0,2672.807,2672.807,78.257,2758.235,0.7049,0.7042,0.704
+PySpark KNN (Cold Start),4,7.171,0.0,2731.375,2731.375,75.732,2814.278,0.7049,0.7042,0.704
+PySpark KNN (Cold Start),5,7.171,0.0,2786.414,2786.414,67.949,2861.534,0.7049,0.7042,0.704

@@ -1,0 +1,80 @@
+itemset,size,support_count,support,is_closed
+Nation=USA,1,206,0.6844,True
+Earnings=High,1,148,0.4917,True
+Rank=Mid-Tier,1,120,0.3987,True
+Decade=1990s,1,100,0.3322,True
+Decade=2010s,1,100,0.3322,True
+Nation=International,1,95,0.3156,True
+Rank=Podium,1,92,0.3056,True
+Decade=2000s,1,91,0.3023,True
+Rank=Lower,1,89,0.2957,True
+Earnings=Moderate,1,81,0.2691,True
+Earnings=Ultra-High,1,72,0.2392,True
+Sport=Boxing,1,46,0.1528,True
+Sport=Golf,1,44,0.1462,True
+Sport=Auto Racing,1,40,0.1329,True
+Earnings=High; Nation=USA,2,103,0.3422,True
+Nation=USA; Sport=Basketball,2,82,0.2724,True
+Nation=USA; Rank=Mid-Tier,2,82,0.2724,True
+Decade=1990s; Nation=USA,2,78,0.2591,True
+Decade=1990s; Earnings=Moderate,2,67,0.2226,True
+Decade=2000s; Nation=USA,2,66,0.2193,True
+Decade=2000s; Earnings=High,2,66,0.2193,True
+Nation=USA; Rank=Lower,2,63,0.2093,True
+Earnings=Moderate; Nation=USA,2,62,0.206,True
+Earnings=High; Rank=Mid-Tier,2,62,0.206,True
+Nation=USA; Rank=Podium,2,61,0.2027,True
+Decade=2010s; Nation=USA,2,56,0.186,True
+Decade=2010s; Earnings=High,2,52,0.1728,True
+Decade=2010s; Earnings=Ultra-High,2,48,0.1595,True
+Earnings=High; Rank=Lower,2,46,0.1528,True
+Earnings=High; Nation=International,2,45,0.1495,True
+Earnings=Ultra-High; Rank=Podium,2,44,0.1462,True
+Decade=2010s; Nation=International,2,44,0.1462,True
+Nation=USA; Sport=Golf,2,42,0.1395,True
+Earnings=Ultra-High; Nation=USA,2,41,0.1362,True
+Nation=USA; Sport=Boxing,2,40,0.1329,True
+Earnings=High; Rank=Podium,2,40,0.1329,True
+Decade=1990s; Rank=Mid-Tier,2,40,0.1329,True
+Decade=2010s; Rank=Mid-Tier,2,40,0.1329,True
+Nation=International; Rank=Mid-Tier,2,38,0.1262,True
+Earnings=Moderate; Rank=Mid-Tier,2,37,0.1229,True
+Earnings=Moderate; Rank=Lower,2,36,0.1196,True
+Decade=2000s; Rank=Mid-Tier,2,36,0.1196,True
+Nation=International; Sport=Auto Racing,2,34,0.113,True
+Nation=International; Sport=Soccer,2,33,0.1096,True
+Earnings=Ultra-High; Nation=International,2,31,0.103,True
+Nation=International; Rank=Podium,2,31,0.103,True
+Decade=2010s; Rank=Lower,2,30,0.0997,True
+Decade=1990s; Rank=Lower,2,30,0.0997,True
+Decade=2010s; Rank=Podium,2,30,0.0997,True
+Decade=1990s; Rank=Podium,2,30,0.0997,True
+Decade=2000s; Rank=Podium,2,29,0.0963,True
+Decade=1990s; Earnings=High,2,29,0.0963,True
+Decade=1990s; Sport=Boxing,2,27,0.0897,True
+Nation=International; Rank=Lower,2,26,0.0864,True
+Decade=2000s; Rank=Lower,2,26,0.0864,True
+Decade=2000s; Nation=International,2,25,0.0831,True
+Decade=1990s; Earnings=Moderate; Nation=USA,3,50,0.1661,True
+Earnings=High; Nation=USA; Sport=Basketball,3,47,0.1561,True
+Decade=2000s; Earnings=High; Nation=USA,3,46,0.1528,True
+Earnings=High; Nation=USA; Rank=Mid-Tier,3,45,0.1495,True
+Nation=USA; Rank=Mid-Tier; Sport=Basketball,3,40,0.1329,True
+Decade=2000s; Nation=USA; Sport=Basketball,3,32,0.1063,True
+Decade=2010s; Earnings=High; Nation=USA,3,32,0.1063,True
+Decade=1990s; Earnings=Moderate; Rank=Mid-Tier,3,31,0.103,True
+Earnings=High; Nation=USA; Rank=Podium,3,31,0.103,True
+Decade=2000s; Earnings=High; Rank=Mid-Tier,3,30,0.0997,True
+Earnings=Moderate; Nation=USA; Rank=Lower,3,29,0.0963,True
+Decade=2000s; Nation=USA; Rank=Mid-Tier,3,29,0.0963,True
+Decade=1990s; Nation=USA; Rank=Mid-Tier,3,29,0.0963,True
+Decade=1990s; Earnings=Moderate; Rank=Lower,3,28,0.093,True
+Earnings=Moderate; Nation=USA; Rank=Mid-Tier,3,27,0.0897,True
+Earnings=High; Nation=USA; Rank=Lower,3,27,0.0897,True
+Decade=1990s; Nation=USA; Sport=Boxing,3,26,0.0864,True
+Decade=2010s; Earnings=Ultra-High; Rank=Podium,3,26,0.0864,True
+Decade=2010s; Nation=USA; Sport=Basketball,3,25,0.0831,True
+Decade=1990s; Nation=USA; Rank=Lower,3,25,0.0831,True
+Decade=2010s; Earnings=High; Rank=Lower,3,25,0.0831,True
+Decade=2000s; Earnings=High; Nation=USA; Sport=Basketball,4,26,0.0864,True
+Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball,4,25,0.0831,True

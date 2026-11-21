@@ -1,0 +1,302 @@
+Transaction_ID,Athlete_Name,Year,Items
+1,Mike Tyson,1990,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+2,Buster Douglas,1990,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+3,Sugar Ray Leonard,1990,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=Boxing
+4,Ayrton Senna,1990,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+5,Alain Prost,1990,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+6,Jack Nicklaus,1990,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Golf
+7,Greg Norman,1990,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Golf
+8,Michael Jordan,1990,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+9,Arnold Palmer,1990,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+10,Evander Holyfield,1990,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Boxing
+11,Evander Holyfield,1991,Decade=1990s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+12,Mike Tyson,1991,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+13,Michael Jordan,1991,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=Basketball
+14,George Foreman,1991,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+15,Ayrton Senna,1991,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+16,Alain Prost,1991,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+17,"Donovan ""Razor"" Ruddock",1991,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Boxing
+18,Arnold Palmer,1991,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+19,Nigel Mansell,1991,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Auto Racing
+20,Sugar Ray Leonard,1991,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+21,Michael Jordan,1992,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+22,Evander Holyfield,1992,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+23,Ayrton Senna,1992,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Podium; Sport=Auto Racing
+24,Nigel Mansell,1992,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+25,Arnold Palmer,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Golf
+26,Andre Agassi,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Tennis
+27,Joe Montana,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=American Football
+28,Sugar Ray Leonard,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+29,Jim Courier,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Tennis
+30,Monica Seles,1992,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Tennis
+31,Michael Jordan,1993,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+32,Riddick Bowe,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=Boxing
+33,Ayrton Senna,1993,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Podium; Sport=Auto Racing
+34,Alain Prost,1993,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+35,George Foreman,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+36,Shaquille O'Neal,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+37,Lennox Lewis,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+38,Cecil Fielder,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Baseball
+39,Jim Courier,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Tennis
+40,Joe Montana,1993,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=American Football
+41,Michael Jordan,1994,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+42,Shaq O'Neal,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=Basketball
+43,Jack Nicklaus,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=Golf
+44,Arnold Palmer,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Golf
+45,Gerhard Berger,1994,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+46,Wayne Gretzky,1994,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Mid-Tier; Sport=Hockey
+47,Michael Moorer,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+48,Evander Holyfield,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Boxing
+49,Andre Agassi,1994,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Tennis
+50,Nigel Mansell,1994,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Auto Racing
+51,Michael Jordan,1995,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+52,Mike Tyson,1995,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+53,Deion Sanders,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Podium; Sport=American Football
+54,Riddick Bowe,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+55,Shaquille O'Neal,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+56,George Foreman,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+57,Andre Agassi,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Tennis
+58,Sugar Ray Leonard,1995,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+59,Michael Schumacher,1995,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Auto Racing
+60,Wayne Gretzky,1995,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Hockey
+61,Mike Tyson,1996,Decade=1990s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+62,Michael Jordan,1996,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+63,Michael Schumacher,1996,Decade=1990s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+64,Shaquille O'Neal,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+65,Emmit Smith,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=American Football
+66,Evander Holyfield,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+67,Andre Agassi,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Tennis
+68,Arnold Palmer,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+69,Dennis Rodman,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+70,Patrick Ewing,1996,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+71,Michael Jordan,1997,Decade=1990s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+72,Evander Holyfield,1997,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+73,Oscar De La Hoya,1997,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+74,Michael Schumacher,1997,Decade=1990s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+75,Mike Tyson,1997,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+76,Tiger Woods,1997,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+77,Shaquille O'Neal,1997,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+78,Dale Earnhardt,1997,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Auto Racing
+79,Joe Sakic,1997,Decade=1990s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Hockey
+80,Grant Hill,1997,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+81,Michael Jordan,1998,Decade=1990s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+82,Michael Schumacher,1998,Decade=1990s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+83,Sergei Federov,1998,Decade=1990s; Earnings=High; Nation=International; Rank=Podium; Sport=Hockey
+84,Tiger Woods,1998,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+85,Dale Earnhardt,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Auto Racing
+86,Grant Hill,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+87,Oscar De La Hoya,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+88,Patrick Ewing,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+89,Arnold Palmer,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Golf
+90,Gary Sheffield,1998,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Baseball
+91,Michael Schumacher,1999,Decade=1990s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+92,Tiger Woods,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Golf
+93,Oscar De La Hoya,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+94,Michael Jordan,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+95,Evander Holyfield,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+96,Mike Tyson,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+97,Shaq O'Neal,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+98,Lennox Lewis,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Lower; Sport=Boxing
+99,Dale Earnhardt,1999,Decade=1990s; Earnings=High; Nation=USA; Rank=Lower; Sport=Auto Racing
+100,Grant Hill,1999,Decade=1990s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+101,Michael Schumacher,2000,Decade=2000s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+102,Tiger Woods,2000,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Golf
+103,Mike Tyson,2000,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+104,Michael Jordan,2000,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+105,Grant Hill,2000,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+106,Dale Earnhardt,2000,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Auto Racing
+107,Shaq O'Neal,2000,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+108,Lennox Lewis,2000,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Boxing
+109,Oscar De La Hoya,2000,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Boxing
+110,Kevin Garnett,2000,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+111,Tiger Woods,2002,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+112,Michael Schumacher,2002,Decade=2000s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Auto Racing
+113,Michael Jordan,2002,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+114,Lennox Lewis,2002,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+115,Grant Hill,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+116,Shaquille O'Neal,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+117,Mike Tyson,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+118,Kevin Garnett,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+119,Kobe Bryant,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Basketball
+120,Jacques Villeneuve,2002,Decade=2000s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Auto Racing
+121,Jeff Gordon,2002,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Auto Racing
+122,Tiger Woods,2003,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+123,Michael Schumacher,2003,Decade=2000s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Auto Racing
+124,Michael Jordan,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+125,Shaq O'Neal,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+126,Oscar De La Hoya,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Boxing
+127,Kevin Garnett,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+128,Alex Rodriguez,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Baseball
+129,Grant Hill,2003,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+130,Andre Agassi,2003,Decade=2000s; Earnings=Moderate; Nation=USA; Rank=Lower; Sport=Tennis
+131,Jacques Villeneuve,2003,Decade=2000s; Earnings=Moderate; Nation=International; Rank=Lower; Sport=Auto Racing
+132,Tiger Woods,2004,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+133,Michael Schumacher,2004,Decade=2000s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Auto Racing
+134,Peyton Manning,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=American Football
+135,Michael Jordan,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+136,Shaquille O'Neal,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+137,Kevin Garnett,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+138,Andre Agassi,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Tennis
+139,David Beckham,2004,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+140,Alex Rodriguez,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Baseball
+141,Kobe Bryant,2004,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+142,Tiger Woods,2005,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+143,Michael Schumacher,2005,Decade=2000s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+144,Oscar De La Hoya,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+145,Michael Vick,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+146,Shaquille O'Neal,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+147,Michael Jordan,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+148,David Beckham,2005,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+149,Kobe Bryant,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+150,Lance Armstrong,2005,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Cycling
+151,Valentino Rossi,2005,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+152,Tiger Woods,2006,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+153,Michael Schumacher,2006,Decade=2000s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+154,Muhammad Ali,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+155,Phil Mickelson,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+156,Michael Jordan,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+157,Kobe Bryant,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+158,Shaquille O'Neal,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+159,Valentino Rossi,2006,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+160,Alex Rodriguez,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Baseball
+161,Tom Brady,2006,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+162,Tiger Woods,2007,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+163,Oscar De La Hoya,2007,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Boxing
+164,Phil Mickelson,2007,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Golf
+165,Kimi Raikkonen,2007,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+166,Michael Schumacher,2007,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+167,David Beckham,2007,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+168,Kobe Bryant,2007,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+169,Shaquille O'Neal,2007,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+170,Ronaldinho,2007,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+171,Michael Jordan,2007,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+172,Tiger Woods,2008,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+173,David Beckham,2008,Decade=2000s; Earnings=High; Nation=International; Rank=Podium; Sport=Soccer
+174,Michael Jordan,2008,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+175,Phil Mickelson,2008,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Golf
+176,Kimi Raikkonen,2008,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Auto Racing
+177,Kobe Bryant,2008,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+178,LeBron James,2008,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+179,Ronaldinho,2008,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+180,Valentino Rossi,2008,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+181,Roger Federer,2008,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Tennis
+182,Tiger Woods,2009,Decade=2000s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+183,Kobe Bryant,2009,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+184,Michael Jordan,2009,Decade=2000s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+185,Kimi Raikkonen,2009,Decade=2000s; Earnings=High; Nation=International; Rank=Podium; Sport=Auto Racing
+186,David Beckham,2009,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+187,LeBron James,2009,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+188,Phil Mickelson,2009,Decade=2000s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+189,Manny Pacquiao,2009,Decade=2000s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Boxing
+190,Valentino Rossi,2009,Decade=2000s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+191,Dale Earnhardt Jr.,2009,Decade=2000s; Earnings=High; Nation=USA; Rank=Lower; Sport=Auto Racing
+192,Tiger Woods,2010,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+193,Floyd Mayweather,2010,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+194,Kobe Bryant,2010,Decade=2010s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+195,Phil Mickelson,2010,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+196,David Beckham,2010,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+197,Roger Federer,2010,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+198,LeBron James,2010,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+199,Manny Pacquiao,2010,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Boxing
+200,Eli Manning,2010,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+201,Terrell Suggs,2010,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+202,Tiger Woods,2011,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+203,Kobe Bryant,2011,Decade=2010s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+204,LeBron James,2011,Decade=2010s; Earnings=High; Nation=USA; Rank=Podium; Sport=Basketball
+205,Roger Federer,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+206,Phil Mickelson,2011,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+207,David Beckham,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+208,Cristiano Ronaldo,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+209,Alex Rodriguez,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Baseball
+210,Michael Schumacher,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+211,Lionel Messi,2011,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+212,Floyd Mayweather,2012,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+213,Manny Pacquiao,2012,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Boxing
+214,Tiger Woods,2012,Decade=2010s; Earnings=High; Nation=USA; Rank=Podium; Sport=Golf
+215,LeBron James,2012,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+216,Roger Federer,2012,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+217,Kobe Bryant,2012,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+218,Phil Mickelson,2012,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+219,David Beckham,2012,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+220,Cristiano Ronaldo,2012,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+221,Peyton Manning,2012,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+222,Tiger Woods,2013,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Golf
+223,Roger Federer,2013,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Tennis
+224,Kobe Bryant,2013,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+225,LeBron James,2013,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+226,Drew Brees,2013,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+227,Aaron Rodgers,2013,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+228,Phil Mickelson,2013,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+229,David Beckham,2013,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+230,Cristiano Ronaldo,2013,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+231,Lionel Messi,2013,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Soccer
+232,Floyd Mayweather,2014,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+233,Cristiano Ronaldo,2014,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+234,LeBron James,2014,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+235,Lionel Messi,2014,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+236,Kobe Bryant,2014,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+237,Tiger Woods,2014,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Golf
+238,Roger Federer,2014,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+239,Phil Mickelson,2014,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Golf
+240,Rafael Nadal,2014,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Tennis
+241,Matt Ryan,2014,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+242,Floyd Mayweather,2015,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+243,Manny Pacquiao,2015,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Boxing
+244,Cristiano Ronaldo,2015,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+245,Lionel Messi,2015,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+246,Roger Federer,2015,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+247,LeBron James,2015,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+248,Kevin Durant,2015,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+249,Phil Mickelson,2015,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Golf
+250,Tiger Woods,2015,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Golf
+251,Kobe Bryant,2015,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+252,Cristiano Ronaldo,2016,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+253,Lionel Messi,2016,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+254,LeBron James,2016,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+255,Roger Federer,2016,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+256,Kevin Durant,2016,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+257,Novak Djokovic,2016,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+258,Cam Newton,2016,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+259,Phil Mickelson,2016,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Golf
+260,Jordan Spieth,2016,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Golf
+261,Kobe Bryant,2016,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+262,Cristiano Ronaldo,2017,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+263,LeBron James,2017,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Basketball
+264,Lionel Messi,2017,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+265,Roger Federer,2017,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+266,Kevin Durant,2017,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+267,Andrew Luck,2017,Decade=2010s; Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+268,Rory McIlroy,2017,Decade=2010s; Earnings=High; Nation=International; Rank=Mid-Tier; Sport=Golf
+269,Stephen Curry,2017,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+270,James Harden,2017,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=Basketball
+271,Lewis Hamilton,2017,Decade=2010s; Earnings=High; Nation=International; Rank=Lower; Sport=Auto Racing
+272,Floyd Mayweather,2018,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Podium; Sport=Boxing
+273,Lionel Messi,2018,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+274,Cristiano Ronaldo,2018,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+275,Conor McGregor,2018,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=MMA
+276,Neymar,2018,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+277,LeBron James,2018,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+278,Roger Federer,2018,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+279,Stephen Curry,2018,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=Basketball
+280,Matt Ryan,2018,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=American Football
+281,Matthew Stafford,2018,Decade=2010s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football
+282,Lionel Messi,2019,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+283,Cristiano Ronaldo,2019,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+284,Neymar,2019,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+285,Canelo Alvarez,2019,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Boxing
+286,Roger Federer,2019,Decade=2010s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Tennis
+287,Russell Wilson,2019,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+288,Aaron Rogers,2019,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=American Football
+289,LeBron James,2019,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=Basketball
+290,Stephen Curry,2019,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=Basketball
+291,Kevin Durant,2019,Decade=2010s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=Basketball
+292,Roger Federer,2020,Decade=2020s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Tennis
+293,Cristiano Ronaldo,2020,Decade=2020s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+294,Lionel Messi,2020,Decade=2020s; Earnings=Ultra-High; Nation=International; Rank=Podium; Sport=Soccer
+295,Neymar,2020,Decade=2020s; Earnings=Ultra-High; Nation=International; Rank=Mid-Tier; Sport=Soccer
+296,LeBron James,2020,Decade=2020s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+297,Stephen Curry,2020,Decade=2020s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+298,Kevin Durant,2020,Decade=2020s; Earnings=Ultra-High; Nation=USA; Rank=Mid-Tier; Sport=Basketball
+299,Tiger Woods,2020,Decade=2020s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=Golf
+300,Kirk Cousins,2020,Decade=2020s; Earnings=Ultra-High; Nation=USA; Rank=Lower; Sport=American Football
+301,Carson Wentz,2020,Decade=2020s; Earnings=High; Nation=USA; Rank=Lower; Sport=American Football

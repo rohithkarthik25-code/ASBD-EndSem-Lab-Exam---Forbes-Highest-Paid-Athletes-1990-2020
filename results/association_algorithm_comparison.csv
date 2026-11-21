@@ -1,0 +1,16 @@
+Category,Metric,DIC,COFI,Spark FP-Growth,Analytical Insights
+Algorithmic Class,Theoretical Paradigm,Dynamic Itemset Counting (Relaxed Apriori Lattice),Co-occurrence Frequent Itemsets (Pattern-Growth DFS),Distributed FP-Tree (MapReduce Parallel Projection),DIC counts on transaction stream; COFI mines item-conditional subtrees; Spark shards projections across executors.
+Data Structure,Primary Memory Structure,"Dynamic Trie / Itemset State Hash Table (DS, DC, SS, SC)",Compressed COFI-Trees per Frequent Item,Distributed Prefix-Trees (RDD[FPTree]),COFI builds separate tree per item; Spark broadcasts header and parallelizes projections.
+Frequent Itemsets,Total Itemsets Discovered,87,79 (Closed),87,DIC and Spark discover complete set F; COFI prunes 8 non-closed itemsets with zero information loss (9.2% compression).
+Frequent Itemsets,Size 1 Itemsets,16,14,16,COFI pruned Sport=Basketball (supp=82) and Sport=Soccer (supp=33) as they are identical to supersets with Nation.
+Frequent Itemsets,Size 2 Itemsets,46,42,46,COFI pruned 4 Basketball 2-itemsets identical in support to 3-itemsets containing Nation=USA.
+Frequent Itemsets,Size 3 Itemsets,23,21,23,COFI pruned 2 Basketball 3-itemsets identical in support to 4-itemsets containing Nation=USA.
+Frequent Itemsets,Size 4 Itemsets,2,2,2,"Both maximal 4-itemsets are closed: {Decade=2000s, Earnings=High, Nation=USA, Sport=Basketball} and {Earnings=High, Nation=USA, Rank=Mid-Tier, Sport=Basketball}."
+Itemset Parity,Exact Match (DIC vs Spark),Baseline,Lossless Basis,100.0% Exact Match,All 87 itemsets and exact support counts are 100% identical between DIC and Spark FP-Growth.
+Association Rules,Total Rules Generated,61,56,71,DIC generated 61 rules; COFI pruned 5 redundant rules; Spark generated 71 rules (including 19 with lift < 1.10).
+Rule Overlap,Total Unique Rules Union (|DIC ∪ COFI ∪ Spark|),61,56,71,Exact union size is 80 unique rules. Mutually exclusive partition sum: 47 (all three) + 9 (DIC & COFI) + 5 (DIC & Spark) + 19 (Spark only) = 80 rules (100% identity verified).
+Rule Overlap,Common to All Three (Intersection),47,47,47,"Core set of rules meeting conf >= 0.50, lift >= 1.10, closed itemset basis, and single-item consequent."
+Rule Constraints,Consequent Cardinality (|B|),"Arbitrary (|B| >= 1): 52 single, 9 multi","Arbitrary (|B| >= 1): 47 single, 9 multi","Single Item Only (|B| = 1): 71 single, 0 multi",Spark MLlib is strictly constrained to single-item consequents by design; DIC and COFI discover multi-item consequents.
+Rule Constraints,Minimum Lift Filter Applied,Yes (lift >= 1.10),Yes (lift >= 1.10),No (all lift >= 0 kept),Spark includes 13 rules with 1.0 <= lift < 1.10 and 6 rules with lift < 1.0 (independent/negative correlation).
+Redundancy Reduction,Subsumed Rule Elimination,None (retains subsumed rules),Eliminated 5 subsumed rules,None (retains subsumed rules),COFI replaces 5 lower-information rules with exact closed counterparts containing Nation=USA with identical confidence.
+Database Scanning,I/O Passes over Data,4 passes (interval checkpoints M=50),"2 passes (1 for F1, 1 for tree construction)",2 passes (parallelized distributed RDD scans),DIC reduces passes vs Apriori (4 vs 5); COFI and FP-Growth require only 2 passes.

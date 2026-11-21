@@ -1,0 +1,88 @@
+itemset,itemset_size,support_count,support
+Nation=USA,1,206,0.6844
+Earnings=High,1,148,0.4917
+Rank=Mid-Tier,1,120,0.3987
+Decade=1990s,1,100,0.3322
+Decade=2010s,1,100,0.3322
+Nation=International,1,95,0.3156
+Rank=Podium,1,92,0.3056
+Decade=2000s,1,91,0.3023
+Rank=Lower,1,89,0.2957
+Sport=Basketball,1,82,0.2724
+Earnings=Moderate,1,81,0.2691
+Earnings=Ultra-High,1,72,0.2392
+Sport=Boxing,1,46,0.1528
+Sport=Golf,1,44,0.1462
+Sport=Auto Racing,1,40,0.1329
+Sport=Soccer,1,33,0.1096
+Earnings=High; Nation=USA,2,103,0.3422
+Nation=USA; Rank=Mid-Tier,2,82,0.2724
+Nation=USA; Sport=Basketball,2,82,0.2724
+Decade=1990s; Nation=USA,2,78,0.2591
+Decade=1990s; Earnings=Moderate,2,67,0.2226
+Decade=2000s; Earnings=High,2,66,0.2193
+Decade=2000s; Nation=USA,2,66,0.2193
+Nation=USA; Rank=Lower,2,63,0.2093
+Earnings=Moderate; Nation=USA,2,62,0.206
+Earnings=High; Rank=Mid-Tier,2,62,0.206
+Nation=USA; Rank=Podium,2,61,0.2027
+Decade=2010s; Nation=USA,2,56,0.186
+Decade=2010s; Earnings=High,2,52,0.1728
+Decade=2010s; Earnings=Ultra-High,2,48,0.1595
+Earnings=High; Sport=Basketball,2,47,0.1561
+Earnings=High; Rank=Lower,2,46,0.1528
+Earnings=High; Nation=International,2,45,0.1495
+Earnings=Ultra-High; Rank=Podium,2,44,0.1462
+Decade=2010s; Nation=International,2,44,0.1462
+Nation=USA; Sport=Golf,2,42,0.1395
+Earnings=Ultra-High; Nation=USA,2,41,0.1362
+Earnings=High; Rank=Podium,2,40,0.1329
+Decade=1990s; Rank=Mid-Tier,2,40,0.1329
+Nation=USA; Sport=Boxing,2,40,0.1329
+Rank=Mid-Tier; Sport=Basketball,2,40,0.1329
+Decade=2010s; Rank=Mid-Tier,2,40,0.1329
+Nation=International; Rank=Mid-Tier,2,38,0.1262
+Earnings=Moderate; Rank=Mid-Tier,2,37,0.1229
+Earnings=Moderate; Rank=Lower,2,36,0.1196
+Decade=2000s; Rank=Mid-Tier,2,36,0.1196
+Nation=International; Sport=Auto Racing,2,34,0.113
+Nation=International; Sport=Soccer,2,33,0.1096
+Decade=2000s; Sport=Basketball,2,32,0.1063
+Nation=International; Rank=Podium,2,31,0.103
+Earnings=Ultra-High; Nation=International,2,31,0.103
+Decade=1990s; Rank=Lower,2,30,0.0997
+Decade=1990s; Rank=Podium,2,30,0.0997
+Decade=2010s; Rank=Lower,2,30,0.0997
+Decade=2010s; Rank=Podium,2,30,0.0997
+Decade=1990s; Earnings=High,2,29,0.0963
+Decade=2000s; Rank=Podium,2,29,0.0963
+Decade=1990s; Sport=Boxing,2,27,0.0897
+Nation=International; Rank=Lower,2,26,0.0864
+Decade=2000s; Rank=Lower,2,26,0.0864
+Decade=2000s; Nation=International,2,25,0.0831
+Decade=2010s; Sport=Basketball,2,25,0.0831
+Decade=1990s; Earnings=Moderate; Nation=USA,3,50,0.1661
+Earnings=High; Nation=USA; Sport=Basketball,3,47,0.1561
+Decade=2000s; Earnings=High; Nation=USA,3,46,0.1528
+Earnings=High; Nation=USA; Rank=Mid-Tier,3,45,0.1495
+Nation=USA; Rank=Mid-Tier; Sport=Basketball,3,40,0.1329
+Decade=2000s; Nation=USA; Sport=Basketball,3,32,0.1063
+Decade=2010s; Earnings=High; Nation=USA,3,32,0.1063
+Earnings=High; Nation=USA; Rank=Podium,3,31,0.103
+Decade=1990s; Earnings=Moderate; Rank=Mid-Tier,3,31,0.103
+Decade=2000s; Earnings=High; Rank=Mid-Tier,3,30,0.0997
+Earnings=Moderate; Nation=USA; Rank=Lower,3,29,0.0963
+Decade=1990s; Nation=USA; Rank=Mid-Tier,3,29,0.0963
+Decade=2000s; Nation=USA; Rank=Mid-Tier,3,29,0.0963
+Decade=1990s; Earnings=Moderate; Rank=Lower,3,28,0.093
+Earnings=High; Nation=USA; Rank=Lower,3,27,0.0897
+Earnings=Moderate; Nation=USA; Rank=Mid-Tier,3,27,0.0897
+Decade=1990s; Nation=USA; Sport=Boxing,3,26,0.0864
+Decade=2000s; Earnings=High; Sport=Basketball,3,26,0.0864
+Decade=2010s; Earnings=Ultra-High; Rank=Podium,3,26,0.0864
+Earnings=High; Rank=Mid-Tier; Sport=Basketball,3,25,0.0831
+Decade=1990s; Nation=USA; Rank=Lower,3,25,0.0831
+Decade=2010s; Earnings=High; Rank=Lower,3,25,0.0831
+Decade=2010s; Nation=USA; Sport=Basketball,3,25,0.0831
+Decade=2000s; Earnings=High; Nation=USA; Sport=Basketball,4,26,0.0864
+Earnings=High; Nation=USA; Rank=Mid-Tier; Sport=Basketball,4,25,0.0831

@@ -1,0 +1,560 @@
+{
+  "comparison_title": "Comparative Validation of DIC, COFI, and Spark FP-Growth",
+  "dataset_metadata": {
+    "name": "Forbes Highest-Paid Athletes (1990-2020) Cleaned Transactions",
+    "total_transactions": 301,
+    "transaction_length": 5,
+    "unique_items": 23,
+    "minimum_support_threshold": 0.08,
+    "minimum_support_count": 25,
+    "minimum_confidence_threshold": 0.5
+  },
+  "itemset_analysis": {
+    "dic_total": 87,
+    "spark_total": 87,
+    "cofi_total": 79,
+    "exact_dic_spark_match": true,
+    "cardinality_breakdown": {
+      "k=1": {
+        "DIC": 16,
+        "Spark_FPGrowth": 16,
+        "COFI_Closed": 14,
+        "Pruned_by_COFI": 2
+      },
+      "k=2": {
+        "DIC": 46,
+        "Spark_FPGrowth": 46,
+        "COFI_Closed": 42,
+        "Pruned_by_COFI": 4
+      },
+      "k=3": {
+        "DIC": 23,
+        "Spark_FPGrowth": 23,
+        "COFI_Closed": 21,
+        "Pruned_by_COFI": 2
+      },
+      "k=4": {
+        "DIC": 2,
+        "Spark_FPGrowth": 2,
+        "COFI_Closed": 2,
+        "Pruned_by_COFI": 0
+      }
+    },
+    "pruned_count": 8,
+    "pruned_itemsets": [
+      {
+        "pruned_itemset": "Sport=Basketball",
+        "size": 1,
+        "support_count": 82,
+        "support": 0.2724,
+        "closed_supersets_with_identical_support": [
+          "Nation=USA, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Sport=Soccer",
+        "size": 1,
+        "support_count": 33,
+        "support": 0.1096,
+        "closed_supersets_with_identical_support": [
+          "Nation=International, Sport=Soccer"
+        ]
+      },
+      {
+        "pruned_itemset": "Decade=2000s, Sport=Basketball",
+        "size": 2,
+        "support_count": 32,
+        "support": 0.1063,
+        "closed_supersets_with_identical_support": [
+          "Decade=2000s, Nation=USA, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Decade=2010s, Sport=Basketball",
+        "size": 2,
+        "support_count": 25,
+        "support": 0.0831,
+        "closed_supersets_with_identical_support": [
+          "Decade=2010s, Nation=USA, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Earnings=High, Sport=Basketball",
+        "size": 2,
+        "support_count": 47,
+        "support": 0.1561,
+        "closed_supersets_with_identical_support": [
+          "Earnings=High, Nation=USA, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Rank=Mid-Tier, Sport=Basketball",
+        "size": 2,
+        "support_count": 40,
+        "support": 0.1329,
+        "closed_supersets_with_identical_support": [
+          "Nation=USA, Rank=Mid-Tier, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Decade=2000s, Earnings=High, Sport=Basketball",
+        "size": 3,
+        "support_count": 26,
+        "support": 0.0864,
+        "closed_supersets_with_identical_support": [
+          "Decade=2000s, Earnings=High, Nation=USA, Sport=Basketball"
+        ]
+      },
+      {
+        "pruned_itemset": "Earnings=High, Rank=Mid-Tier, Sport=Basketball",
+        "size": 3,
+        "support_count": 25,
+        "support": 0.0831,
+        "closed_supersets_with_identical_support": [
+          "Earnings=High, Nation=USA, Rank=Mid-Tier, Sport=Basketball"
+        ]
+      }
+    ]
+  },
+  "association_rule_analysis": {
+    "rule_counts": {
+      "DIC": 61,
+      "COFI": 56,
+      "Spark": 71
+    },
+    "total_unique_rules": 80,
+    "mutually_exclusive_partition_sum": 80,
+    "partition_sum_matches_union": true,
+    "partitions": {
+      "all_three_intersection": 47,
+      "dic_and_cofi_only": 9,
+      "dic_and_spark_only": 5,
+      "cofi_and_spark_only": 0,
+      "dic_only": 0,
+      "cofi_only": 0,
+      "spark_only": 19
+    },
+    "reconstructed_totals": {
+      "DIC": 61,
+      "COFI": 56,
+      "Spark": 71
+    },
+    "reconstructed_matches_source": true,
+    "partition_details": {
+      "dic_and_cofi_only": [
+        {
+          "antecedent": "Decade=1990s",
+          "consequent": "Earnings=Moderate, Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 2,
+          "support_count": 50,
+          "support": 0.1661,
+          "confidence": 0.5,
+          "lift": 2.4274
+        },
+        {
+          "antecedent": "Decade=2000s",
+          "consequent": "Earnings=High, Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 2,
+          "support_count": 46,
+          "support": 0.1528,
+          "confidence": 0.5055,
+          "lift": 1.4772
+        },
+        {
+          "antecedent": "Decade=2000s, Sport=Basketball",
+          "consequent": "Earnings=High, Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 2,
+          "support_count": 26,
+          "support": 0.0864,
+          "confidence": 0.8125,
+          "lift": 2.3744
+        },
+        {
+          "antecedent": "Earnings=High, Sport=Basketball",
+          "consequent": "Decade=2000s, Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 2,
+          "support_count": 26,
+          "support": 0.0864,
+          "confidence": 0.5532,
+          "lift": 2.5229
+        },
+        {
+          "antecedent": "Earnings=High, Sport=Basketball",
+          "consequent": "Nation=USA, Rank=Mid-Tier",
+          "antecedent_len": 2,
+          "consequent_len": 2,
+          "support_count": 25,
+          "support": 0.0831,
+          "confidence": 0.5319,
+          "lift": 1.9525
+        },
+        {
+          "antecedent": "Earnings=Moderate",
+          "consequent": "Decade=1990s, Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 2,
+          "support_count": 50,
+          "support": 0.1661,
+          "confidence": 0.6173,
+          "lift": 2.3821
+        },
+        {
+          "antecedent": "Rank=Mid-Tier, Sport=Basketball",
+          "consequent": "Earnings=High, Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 2,
+          "support_count": 25,
+          "support": 0.0831,
+          "confidence": 0.625,
+          "lift": 1.8265
+        },
+        {
+          "antecedent": "Sport=Basketball",
+          "consequent": "Earnings=High, Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 2,
+          "support_count": 47,
+          "support": 0.1561,
+          "confidence": 0.5732,
+          "lift": 1.675
+        },
+        {
+          "antecedent": "Sport=Boxing",
+          "consequent": "Decade=1990s, Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 2,
+          "support_count": 26,
+          "support": 0.0864,
+          "confidence": 0.5652,
+          "lift": 2.1812
+        }
+      ],
+      "dic_and_spark_only": [
+        {
+          "antecedent": "Decade=2000s, Sport=Basketball",
+          "consequent": "Earnings=High",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 26,
+          "support": 0.0864,
+          "confidence": 0.8125,
+          "lift": 1.6524,
+          "subsuming_closed_cofi_rules": [
+            "Decade=2000s, Sport=Basketball => Earnings=High, Nation=USA (supp=26, conf=0.8125, lift=2.3744)"
+          ]
+        },
+        {
+          "antecedent": "Earnings=High, Sport=Basketball",
+          "consequent": "Decade=2000s",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 26,
+          "support": 0.0864,
+          "confidence": 0.5532,
+          "lift": 1.8298,
+          "subsuming_closed_cofi_rules": [
+            "Earnings=High, Sport=Basketball => Decade=2000s, Nation=USA (supp=26, conf=0.5532, lift=2.5229)"
+          ]
+        },
+        {
+          "antecedent": "Earnings=High, Sport=Basketball",
+          "consequent": "Rank=Mid-Tier",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 25,
+          "support": 0.0831,
+          "confidence": 0.5319,
+          "lift": 1.3342,
+          "subsuming_closed_cofi_rules": [
+            "Earnings=High, Sport=Basketball => Nation=USA, Rank=Mid-Tier (supp=25, conf=0.5319, lift=1.9525)"
+          ]
+        },
+        {
+          "antecedent": "Rank=Mid-Tier, Sport=Basketball",
+          "consequent": "Earnings=High",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 25,
+          "support": 0.0831,
+          "confidence": 0.625,
+          "lift": 1.2711,
+          "subsuming_closed_cofi_rules": [
+            "Rank=Mid-Tier, Sport=Basketball => Earnings=High, Nation=USA (supp=25, conf=0.6250, lift=1.8265)"
+          ]
+        },
+        {
+          "antecedent": "Sport=Basketball",
+          "consequent": "Earnings=High",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 47,
+          "support": 0.1561,
+          "confidence": 0.5732,
+          "lift": 1.1657,
+          "subsuming_closed_cofi_rules": [
+            "Sport=Basketball => Earnings=High, Nation=USA (supp=47, conf=0.5732, lift=1.6750)"
+          ]
+        }
+      ],
+      "spark_only": [
+        {
+          "antecedent": "Decade=1990s, Earnings=Moderate",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 50,
+          "support": 0.1661,
+          "confidence": 0.7463,
+          "lift": 1.0904
+        },
+        {
+          "antecedent": "Decade=1990s, Rank=Mid-Tier",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 29,
+          "support": 0.0963,
+          "confidence": 0.725,
+          "lift": 1.0593
+        },
+        {
+          "antecedent": "Decade=2000s",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 66,
+          "support": 0.2193,
+          "confidence": 0.7253,
+          "lift": 1.0597
+        },
+        {
+          "antecedent": "Decade=2000s, Earnings=High",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 46,
+          "support": 0.1528,
+          "confidence": 0.697,
+          "lift": 1.0184
+        },
+        {
+          "antecedent": "Decade=2010s",
+          "consequent": "Earnings=High",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 52,
+          "support": 0.1728,
+          "confidence": 0.52,
+          "lift": 1.0576
+        },
+        {
+          "antecedent": "Decade=2010s",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 56,
+          "support": 0.186,
+          "confidence": 0.56,
+          "lift": 0.8183
+        },
+        {
+          "antecedent": "Decade=2010s, Earnings=High",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 32,
+          "support": 0.1063,
+          "confidence": 0.6154,
+          "lift": 0.8992
+        },
+        {
+          "antecedent": "Earnings=High",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 103,
+          "support": 0.3422,
+          "confidence": 0.6959,
+          "lift": 1.0169
+        },
+        {
+          "antecedent": "Earnings=High, Rank=Lower",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 27,
+          "support": 0.0897,
+          "confidence": 0.587,
+          "lift": 0.8576
+        },
+        {
+          "antecedent": "Earnings=High, Rank=Mid-Tier",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 45,
+          "support": 0.1495,
+          "confidence": 0.7258,
+          "lift": 1.0605
+        },
+        {
+          "antecedent": "Earnings=Moderate, Rank=Mid-Tier",
+          "consequent": "Nation=USA",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 27,
+          "support": 0.0897,
+          "confidence": 0.7297,
+          "lift": 1.0663
+        },
+        {
+          "antecedent": "Earnings=Ultra-High",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 41,
+          "support": 0.1362,
+          "confidence": 0.5694,
+          "lift": 0.8321
+        },
+        {
+          "antecedent": "Nation=USA",
+          "consequent": "Earnings=High",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 103,
+          "support": 0.3422,
+          "confidence": 0.5,
+          "lift": 1.0169
+        },
+        {
+          "antecedent": "Nation=USA, Rank=Podium",
+          "consequent": "Earnings=High",
+          "antecedent_len": 2,
+          "consequent_len": 1,
+          "support_count": 31,
+          "support": 0.103,
+          "confidence": 0.5082,
+          "lift": 1.0336
+        },
+        {
+          "antecedent": "Rank=Lower",
+          "consequent": "Earnings=High",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 46,
+          "support": 0.1528,
+          "confidence": 0.5169,
+          "lift": 1.0512
+        },
+        {
+          "antecedent": "Rank=Lower",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 63,
+          "support": 0.2093,
+          "confidence": 0.7079,
+          "lift": 1.0343
+        },
+        {
+          "antecedent": "Rank=Mid-Tier",
+          "consequent": "Earnings=High",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 62,
+          "support": 0.206,
+          "confidence": 0.5167,
+          "lift": 1.0508
+        },
+        {
+          "antecedent": "Rank=Mid-Tier",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 82,
+          "support": 0.2724,
+          "confidence": 0.6833,
+          "lift": 0.9985
+        },
+        {
+          "antecedent": "Rank=Podium",
+          "consequent": "Nation=USA",
+          "antecedent_len": 1,
+          "consequent_len": 1,
+          "support_count": 61,
+          "support": 0.2027,
+          "confidence": 0.663,
+          "lift": 0.9688
+        }
+      ]
+    },
+    "consequent_cardinality": {
+      "DIC": {
+        "len_1": 52,
+        "len_2_plus": 9
+      },
+      "COFI": {
+        "len_1": 47,
+        "len_2_plus": 9
+      },
+      "Spark": {
+        "len_1": 71,
+        "len_2_plus": 0
+      }
+    },
+    "lift_distribution": {
+      "DIC": {
+        "lift_ge_1_1": 61,
+        "lift_1_0_to_1_1": 0,
+        "lift_lt_1_0": 0
+      },
+      "COFI": {
+        "lift_ge_1_1": 56,
+        "lift_1_0_to_1_1": 0,
+        "lift_lt_1_0": 0
+      },
+      "Spark": {
+        "lift_ge_1_1": 52,
+        "lift_1_0_to_1_1": 13,
+        "lift_lt_1_0": 6
+      }
+    }
+  },
+  "architectural_comparison": {
+    "DIC": {
+      "paradigm": "Dynamic Candidate Counting on Data Stream",
+      "reference": "Brin et al. (SIGMOD 1997)",
+      "data_structure": "Itemset State Hash Table (DS, DC, SS, SC) with Checkpoints",
+      "passes_over_data": 4,
+      "multi_consequent_support": true,
+      "redundancy_elimination": false,
+      "strengths": "Starts counting supersets early without waiting for full database pass; ideal for streaming / sequential data.",
+      "limitations": "Still evaluates Apriori candidate powerset; can generate redundant rules."
+    },
+    "COFI": {
+      "paradigm": "Closed Itemset Pattern-Growth via Compressed Subtrees",
+      "reference": "Za\u00efane, El-Hajj (DMKD 2005)",
+      "data_structure": "Header Table + Local Conditional COFI-Trees",
+      "passes_over_data": 2,
+      "multi_consequent_support": true,
+      "redundancy_elimination": true,
+      "strengths": "Lossless compact representation; prunes non-closed itemsets and redundant rules; fast memory-resident mining.",
+      "limitations": "Requires single-node memory to hold conditional trees; non-distributed."
+    },
+    "Spark_FPGrowth": {
+      "paradigm": "Distributed Pattern-Growth via Parallel Projections",
+      "reference": "Li et al. (PFP 2008) / Apache Spark MLlib",
+      "data_structure": "Distributed Resilient Distributed Dataset (RDD) of Prefix Trees",
+      "passes_over_data": 2,
+      "multi_consequent_support": false,
+      "redundancy_elimination": false,
+      "strengths": "Massive horizontal scalability across Spark cluster; handles billions of transactions; fault-tolerant.",
+      "limitations": "MLlib limits association rules to single-item consequents (|B| = 1); does not natively prune non-closed patterns."
+    }
+  }
+}

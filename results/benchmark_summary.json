@@ -1,0 +1,87 @@
+{
+  "benchmark_title": "Phase 4 - Step 5: Comprehensive Big Data Performance Benchmarking (Audited)",
+  "audit_version": "Step 5A Verified",
+  "environment": {
+    "operating_system": "Windows 11",
+    "host_memory_total_gb": 11.71,
+    "host_memory_available_gb": 0.24,
+    "python_version": "3.11.9",
+    "java_version": "OpenJDK 17.0.21",
+    "pyspark_version": "4.3.0",
+    "spark_master": "local[2]",
+    "spark_driver_memory": "2g",
+    "spark_executor_memory": "2g",
+    "spark_shuffle_partitions": 4
+  },
+  "memory_monitoring_scope": "Python Driver Resident Memory (RSS) only; does not include JVM heap (2 GB ceiling) or executor child processes.",
+  "benchmark_a_knn": {
+    "dataset_rows": 301,
+    "train_rows": 240,
+    "test_rows": 61,
+    "k_neighbors": 9,
+    "distance_metric": "manhattan (p=1)",
+    "voting": "uniform",
+    "scikit_learn_median_compute_ms": 4.24,
+    "scikit_learn_median_e2e_ms": 11.41,
+    "pyspark_knn_warm_median_compute_ms": 2804.3,
+    "pyspark_knn_warm_median_e2e_ms": 2811.47,
+    "pyspark_knn_cold_session_reset_median_compute_ms": 2714.39,
+    "pyspark_knn_cold_session_reset_median_e2e_ms": 2814.28,
+    "pyspark_knn_cold_session_reset_init_ms": 78.26,
+    "spark_jvm_first_time_bootstrap_seconds": 8.61,
+    "pyspark_knn_cold_bootstrap_e2e_ms": 11327.56,
+    "prediction_agreement_percentage": 100.0,
+    "test_accuracy": 0.7049,
+    "macro_f1": 0.7042,
+    "speedup_ratios": {
+      "compute_speedup_sklearn_over_spark_warm": 661.2,
+      "e2e_speedup_sklearn_over_spark_warm": 246.4,
+      "e2e_speedup_sklearn_over_spark_cold_bootstrap": 992.6
+    }
+  },
+  "benchmark_b_association": {
+    "dataset_transactions": 301,
+    "unique_items": 23,
+    "minsup_threshold": 0.0831,
+    "minconf_threshold": 0.5,
+    "minlift_threshold": 1.1,
+    "cofi_median_compute_ms": 4.29,
+    "cofi_median_e2e_ms": 8.62,
+    "dic_median_compute_ms": 106.1,
+    "dic_median_e2e_ms": 110.49,
+    "spark_fpgrowth_warm_median_compute_ms": 4464.1,
+    "spark_fpgrowth_warm_median_e2e_ms": 6608.79,
+    "spark_fpgrowth_cold_session_reset_compute_ms": 4273.75,
+    "spark_fpgrowth_cold_session_reset_e2e_ms": 4605.52,
+    "spark_fpgrowth_cold_session_reset_init_ms": 66.92,
+    "spark_jvm_first_time_bootstrap_seconds": 10.04,
+    "spark_fpgrowth_cold_bootstrap_e2e_ms": 14580.4,
+    "speedup_ratios": {
+      "compute_speedup_cofi_over_dic": 24.7,
+      "compute_speedup_cofi_over_spark_warm": 1040.6,
+      "compute_speedup_dic_over_spark_warm": 42.1,
+      "e2e_speedup_cofi_over_spark_warm": 766.6,
+      "e2e_speedup_cofi_over_spark_cold_bootstrap": 1691.3
+    }
+  },
+  "benchmark_c_scalability": {
+    "scale_tiers_tested": [
+      1,
+      10,
+      100,
+      500,
+      1000
+    ],
+    "records_tested": [
+      301,
+      3010,
+      30100,
+      150500,
+      301000
+    ],
+    "max_records_tested": 301000,
+    "synthetic_generation_seed": 42,
+    "knn_spark_301k_extrapolation_method": "Benchmarked 500 test queries through distributed RDD pipeline (12.79 s) and linearly scaled by 120.4x to project full 60,200 test set requirement (1,540.04 s) to prevent 25-minute system freeze on host architecture",
+    "dic_stopping_rationale": "Intentionally stopped at N >= 30,100 because checkpointing every M=50 requires >2,400 lattice sweeps per run, creating combinatorial Python bottleneck"
+  }
+}

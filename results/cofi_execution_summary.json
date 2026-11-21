@@ -1,0 +1,33 @@
+{
+    "algorithm": "COFI (Co-occurrence Frequent Itemset) Closed Mining",
+    "dataset": "Forbes Richest Athletes 1990-2020 Cleaned",
+    "transaction_count": 301,
+    "unique_items": 23,
+    "frequent_1_items": 16,
+    "minsup_threshold": 0.083,
+    "minsup_count": 25,
+    "min_confidence": 0.5,
+    "min_lift": 1.1,
+    "execution_time_ms": 2.86,
+    "total_frequent_itemsets": 87,
+    "closed_frequent_itemsets": 79,
+    "non_closed_subsumed_itemsets": 8,
+    "closed_itemsets_by_size": {
+        "size_1": 14,
+        "size_2": 42,
+        "size_3": 21,
+        "size_4": 2
+    },
+    "total_closed_rules": 56,
+    "dic_total_rules": 61,
+    "subsumed_rules_pruned": 5,
+    "independent_validation": {
+        "brute_force_combinations_evaluated": 44551,
+        "frequent_itemsets_exact_match": true,
+        "closed_itemsets_exact_match": true,
+        "support_counts_exact_match": true,
+        "closedness_property_verified": true,
+        "zero_false_positives": true,
+        "zero_false_negatives": true
+    }
+}

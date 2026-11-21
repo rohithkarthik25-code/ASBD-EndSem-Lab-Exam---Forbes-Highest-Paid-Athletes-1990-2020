@@ -1,0 +1,21 @@
+algorithm,execution_type,run_id,data_prep_time_ms,compute_time_ms,rule_gen_time_ms,spark_init_time_ms,total_execution_time_ms,database_passes,frequent_itemsets,association_rules
+DIC (Dynamic Itemset Counting),In-Memory Sequential (Checkpoint M=50),1,4.054,108.927,0.492,0.0,113.473,4,87,61
+DIC (Dynamic Itemset Counting),In-Memory Sequential (Checkpoint M=50),2,4.054,106.705,0.325,0.0,111.085,4,87,61
+DIC (Dynamic Itemset Counting),In-Memory Sequential (Checkpoint M=50),3,4.054,103.691,0.307,0.0,108.052,4,87,61
+DIC (Dynamic Itemset Counting),In-Memory Sequential (Checkpoint M=50),4,4.054,106.104,0.332,0.0,110.49,4,87,61
+DIC (Dynamic Itemset Counting),In-Memory Sequential (Checkpoint M=50),5,4.054,105.27,0.351,0.0,109.675,4,87,61
+COFI (Closed Frequent Itemsets),In-Memory Pattern-Growth (Subtrees),1,4.054,4.069,0.352,0.0,8.475,2,79,56
+COFI (Closed Frequent Itemsets),In-Memory Pattern-Growth (Subtrees),2,4.054,4.298,0.324,0.0,8.675,2,79,56
+COFI (Closed Frequent Itemsets),In-Memory Pattern-Growth (Subtrees),3,4.054,3.88,0.256,0.0,8.19,2,79,56
+COFI (Closed Frequent Itemsets),In-Memory Pattern-Growth (Subtrees),4,4.054,4.555,0.35,0.0,8.96,2,79,56
+COFI (Closed Frequent Itemsets),In-Memory Pattern-Growth (Subtrees),5,4.054,4.29,0.278,0.0,8.621,2,79,56
+Spark MLlib FP-Growth,Distributed Warm Execution (local[2]),1,1942.451,4457.258,233.262,0.0,6632.971,2,87,71
+Spark MLlib FP-Growth,Distributed Warm Execution (local[2]),2,1942.451,4568.354,225.49,0.0,6736.295,2,87,71
+Spark MLlib FP-Growth,Distributed Warm Execution (local[2]),3,1942.451,4464.101,199.489,0.0,6606.041,2,87,71
+Spark MLlib FP-Growth,Distributed Warm Execution (local[2]),4,1942.451,4196.326,191.271,0.0,6330.048,2,87,71
+Spark MLlib FP-Growth,Distributed Warm Execution (local[2]),5,1942.451,4480.995,185.34,0.0,6608.786,2,87,71
+Spark MLlib FP-Growth,Distributed Cold Start (local[2]),1,33.107,4418.798,251.203,92.195,4795.303,2,87,71
+Spark MLlib FP-Growth,Distributed Cold Start (local[2]),2,36.635,4305.61,228.49,74.241,4644.976,2,87,71
+Spark MLlib FP-Growth,Distributed Cold Start (local[2]),3,32.142,4273.75,236.779,62.847,4605.518,2,87,71
+Spark MLlib FP-Growth,Distributed Cold Start (local[2]),4,24.365,4261.735,236.505,59.567,4582.172,2,87,71
+Spark MLlib FP-Growth,Distributed Cold Start (local[2]),5,23.913,3943.643,202.39,66.917,4236.864,2,87,71

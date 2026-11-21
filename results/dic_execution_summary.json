@@ -1,0 +1,68 @@
+{
+  "algorithm": "Dynamic Itemset Counting (DIC)",
+  "reference": "Brin, Motwani, Ullman, Tsur (SIGMOD 1997)",
+  "parameters": {
+    "min_support": 0.08,
+    "min_support_count": 25,
+    "checkpoint_M": 50,
+    "min_confidence": 0.5,
+    "min_lift": 1.1
+  },
+  "dataset_summary": {
+    "total_transactions": 301,
+    "distinct_items": 23,
+    "transaction_length": 5
+  },
+  "execution_metrics": {
+    "total_checkpoints": 24,
+    "total_passes": 4,
+    "total_transaction_reads": 1053,
+    "speedup_vs_apriori_passes": "1.25x fewer full passes (DIC 4 vs Apriori 5)"
+  },
+  "results_summary": {
+    "frequent_itemsets_count": 87,
+    "frequent_itemsets_by_size": {
+      "size_1": 16,
+      "size_2": 46,
+      "size_3": 23,
+      "size_4": 2
+    },
+    "association_rules_count": 61,
+    "top_3_rules_by_lift": [
+      {
+        "antecedent": "Decade=2010s, Rank=Podium",
+        "consequent": "Earnings=Ultra-High",
+        "support": 0.0864,
+        "support_count": 26,
+        "confidence": 0.8667,
+        "lift": 3.6231,
+        "antecedent_len": 2,
+        "consequent_len": 1
+      },
+      {
+        "antecedent": "Decade=1990s, Rank=Lower",
+        "consequent": "Earnings=Moderate",
+        "support": 0.093,
+        "support_count": 28,
+        "confidence": 0.9333,
+        "lift": 3.4683,
+        "antecedent_len": 2,
+        "consequent_len": 1
+      },
+      {
+        "antecedent": "Sport=Soccer",
+        "consequent": "Nation=International",
+        "support": 0.1096,
+        "support_count": 33,
+        "confidence": 1.0,
+        "lift": 3.1684,
+        "antecedent_len": 1,
+        "consequent_len": 1
+      }
+    ]
+  },
+  "validation_status": {
+    "brute_force_validation": "PASS (100% exact match)",
+    "synthetic_state_transitions": "PASS (verified DS, DC, SS, SC)"
+  }
+}
